@@ -1,0 +1,1501 @@
+,Unnamed: 0,Change,Height,Weight,Pos,School/Team,Class,Year,Player Name
+0,1,1.0,6-10,248.0,PF,Oklahoma,So.,2009,Blake Griffin
+1,2,1.0,6-5,222.0,SG,Arizona St.,So.,2009,James Harden
+2,3,1.0,6-4,180.0,PG,FC Barcelona,1990,2009,Ricky Rubio
+3,4,1.0,6-10,232.0,PF,Arizona,Jr.,2009,Jordan Hill
+4,5,1.0,6-1,170.0,PG,Virtus Roma,1989,2009,Brandon Jennings
+5,6,1.0,7-2,267.0,C,UConn,Jr.,2009,Hasheem Thabeet
+6,7,1.0,6-3,181.0,PG/SG,Davidson,Jr.,2009,Stephen Curry
+7,8,1.0,6-7,211.0,SG,USC,Fr.,2009,De Rozan
+8,9,1.0,7-0,258.0,C,Ohio St.,Fr.,2009,Mullens Mullens
+9,10,1.0,6-0,196.0,PG,Syracuse,So.,2009,Jonny Flynn
+10,11,1.0,6-10,226.0,SF,Louisville,Jr.,2009,Earl Clark
+11,12,1.0,6-8,257.0,SF,Wake Forest,So.,2009,James Johnson
+12,13,1.0,6-5,215.0,SG/SF,Duke,Jr.,2009,Gerald Henderson
+13,14,1.0,6-2,175.0,PG,Wake Forest,So.,2009,Jeff Teague
+14,15,1.0,6-5,221.0,SG,Memphis,Fr.,2009,Tyreke Evans
+15,16,1.0,6-5,202.0,SG,North Carolina,Jr.,2009,Wayne Ellington
+16,17,1.0,6-3,164.0,PG,VCU,Sr.,2009,Eric Maynor
+17,18,1.0,6-7,206.0,SG/SF,Arizona,Jr.,2009,Chase Budinger
+18,19,1.0,6-8,225.0,SF,Xavier,Jr.,2009,Derrick Brown
+19,20,1.0,6-6,277.0,PF,Pittsburgh,So.,2009,De Blair
+20,21,1.0,6-9,234.0,PF,North Carolina,Sr.,2009,Tyler Hansbrough
+21,22,1.0,6-6,213.0,SG/SF,Louisville,Sr.,2009,Terrence Williams
+22,23,1.0,6-8,243.0,SF,Georgetown,Jr.,2009,Da Summers
+23,24,1.0,6-9,211.0,SF,Maccabi Tel Aviv,1988,2009,Omri Casspi
+24,25,1.0,6-0,197.0,PG,North Carolina,Jr.,2009,Ty Lawson
+25,26,1.0,6-9,236.0,SF,Pamesa Valencia,1988,2009,Victor Claver
+26,27,1.0,6-10,214.0,PF,USC,Jr.,2009,Taj Gibson
+27,28,1.0,6-1,166.0,PG,UCLA,Sr.,2009,Darren Collison
+28,29,1.0,6-2,183.0,PG/SG,Florida St.,Sr.,2009,Toney Douglas
+29,30,1.0,6-6,223.0,SF,Pittsburgh,Sr.,2009,Sam Young
+30,31,1.0,6-4,199.0,PG/SG,UCLA,Fr.,2009,Jrue Holiday
+31,32,1.0,6-5,211.0,SG,Temple,Sr.,2009,Dionte Christmas
+32,33,1.0,6-9,220.0,SF,Angelico Biella,1987,2009,Jonas Jerebko
+33,34,1.0,6-5,207.0,SG,Central Florida,Sr.,2009,Jermaine Taylor
+34,35,1.0,6-0,175.0,PG,St. Mary's,So.,2009,Patrick Mills
+35,36,1.0,6-4,194.0,SG,LSU,Sr.,2009,Marcus Thornton
+36,37,1.0,6-11,246.0,PF,Gonzaga,Sr.,2009,Josh Heytvelt
+37,38,1.0,6-11,192.0,SF,Gonzaga,So.,2009,Austin Daye
+38,39,1.0,6-10,240.0,PF,Arizona St.,Sr.,2009,Jeff Pendergraph
+39,40,1.0,6-2,182.0,PG,Cholet Basket,1988,2009,Rodrigue Beaubois
+40,41,1.0,6-1,195.0,PG,Baylor,Sr.,2009,Curtis Jerrells
+41,42,1.0,6-5,185.0,PG,Panathinaikos,1989,2009,Nick Calathes
+42,43,1.0,6-3,190.0,SG,Marquette,Sr.,2009,Jerel Neal
+43,44,1.0,6-6,235.0,PF,UConn,Sr.,2009,Jeff Adrien
+44,45,1.0,6-9,235.0,SF/PF,Missouri,Sr.,2009,Leo Lyons
+45,46,1.0,6-8,227.0,SF/PF,Villanova,Sr.,2009,Dante Cunningham
+46,47,1.0,6-10,215.0,SF/PF,Memphis,Sr.,2009,Robert Dozier
+47,48,1.0,6-6,208.0,SF,North Carolina,Sr.,2009,Danny Green
+48,49,1.0,6-0,190.0,PG,Boston College,Sr.,2009,Tyrese Rice
+49,50,1.0,6-8,207.0,SF/PF,Missouri,Sr.,2009,De Carroll
+50,51,1.0,6-11,235.0,C,BC Kyiv,1987,2009,Vyacheslav Kravtsov
+51,52,1.0,6-3,180.0,PG,Real Madrid,1987,2009,Sergio Llull
+52,53,1.0,6-5,215.0,SG,Marquette,Sr.,2009,Wesley Matthews
+53,54,1.0,6-4,211.0,SG,Kentucky,Jr.,2009,Jodie Meeks
+54,55,1.0,6-4,190.0,SG,Oklahoma State,Sr.,2009,Terrel Harris
+55,56,1.0,6-11,205.0,PF/C,LSU,Sr.,2009,Chris Johnsonn
+56,57,1.0,6-6,190.0,SG,Mykolayiv,1989,2009,Sergii Gladyr
+57,58,1.0,6-2,193.0,PG,UConn,Sr.,2009,Price Price
+58,59,1.0,6-11,235.0,PF/C,Unicaja Malaga,1988,2009,Vitor Faverani
+59,60,1.0,6-6,210.0,SG,NC State,Sr.,2009,Courtney Fells
+60,61,1.0,6-6,180.0,SG,,Sr.,2009,Lee Cummard
+61,62,1.0,6-6,219.0,SG,Alabama,Sr.,2009,Alonzo Gee
+62,63,1.0,6-11,305.0,C,Augusta St.,Sr.,2009,Garret Siler
+63,64,1.0,6-6,220.0,SG,West Virginia,Sr.,2009,Alex Ruoff
+64,65,1.0,6-7,200.0,PG/SG,Partizan Belgrade,1987,2009,Milenko Tepic
+65,66,1.0,6-6,210.0,SG/SF,DKV Joventut,1989,2009,Christian Eyenga
+66,67,1.0,6-8,220.0,SG/SF,Fenerbahce Ulker,1987,2009,Emir Preldzic
+67,68,1.0,7-0,235.0,PF/C,DKV Joventut,1987,2009,Henk Norel
+68,69,1.0,6-4,220.0,SG/SF,Syracuse,Jr.,2009,Paul Harris
+69,70,1.0,6-10,235.0,PF,Texas A&M,Jr.,2009,Chinemelu Elonu
+70,71,1.0,6-7,255.0,PF,Washington,Sr.,2009,Jon Brockman
+71,72,1.0,6-5,190.0,PG/SG,Cholet Basket,1987,2009,Nando De
+72,73,1.0,6-1,185.0,SG,Miami,Sr.,2009,Jack Clinton
+73,74,1.0,6-5,185.0,SG,UTEP,Sr.,2009,Stefon Jackson
+74,75,1.0,6-10,220.0,SF/PF,Georgia Tech,Sr.,2009,Alade Aminu
+75,76,1.0,5-11,185.0,PG,Cal State Fullerton,Sr.,2009,Josh Akognon
+76,77,1.0,6-8,230.0,SF,NC State,Jr.,2009,Brandon Costner
+77,78,1.0,6-3,190.0,PG/SG,Tennessee-Martin,Sr.,2009,Lester Hudson
+78,79,1.0,6-5,205.0,SG,UAB,Sr.,2009,Robert Vaden
+79,80,1.0,6-7,180.0,SG/SF,Gonzaga,Sr.,2009,Micah Downs
+80,81,1.0,6-6,210.0,PG/SG,USC,Jr.,2009,Daniel Hackett
+81,82,1.0,7-1,265.0,C,Utah,Sr.,2009,Luke Nevill
+82,83,1.0,5-11,155.0,PG/SG,Texas,Sr.,2009,Abrams Abrams
+83,84,1.0,6-5,220.0,SG,UCLA,Sr.,2009,Josh Shipp
+84,85,1.0,5-11,180.0,PG,Marquette,Sr.,2009,Dominic James
+85,86,1.0,6-2,219.0,PG,Gonzaga,Sr.,2009,Jeremy Pargo
+86,87,1.0,7-0,255.0,C,Florida International,Sr.,2009,Russell Hicks
+87,88,1.0,6-1,179.0,PG/SG,Dnipro Dnepropetrovsk (Ukraine),1988,2009,Patrick Beverly
+88,89,1.0,6-7,195.0,SG,Texas A&M,Sr.,2009,Josh Carter
+89,90,1.0,6-3,180.0,PG,Cleveland St.,Sr.,2009,Cedric Jackson
+90,91,1.0,6-9,203.0,SF,Lottomatica Virtus Roma,1987,2009,Luigi Datome
+91,92,1.0,6-6,214.0,SG,Memphis,Sr.,2009,Antonio Anderson
+92,93,1.0,6-8,215.0,SG/SF,South Dragons,1987,2009,Joe Ingles
+93,94,1.0,6-8,225.0,SF/PF,Baylor,Sr.,2009,Kevin Rogers
+94,95,1.0,6-7,220.0,SF,Charlotte,Sr.,2009,Charlie Coley
+95,96,1.0,6-6,226.0,SG,San Diego St.,Sr.,2009,Lorrenzo Wade
+96,97,1.0,6-4,175.0,PG/SG,Syracuse,Jr.,2009,Eric Devendorf
+97,98,1.0,6-3,190.0,SG,Georgia Tech,Sr.,2009,Lewis Clinch
+98,99,1.0,6-3,200.0,SG,DePaul,So.,2009,Dar Tucker
+99,100,1.0,6-10,230.0,PF,Texas,Sr.,2009,Connor Atchley
+0,1,1.0,6-4,196.0,PG,Kentucky,Fr.,2010,John Wall
+1,2,1.0,6-7,214.0,SG,Ohio St.,Jr.,2010,Evan Turner
+2,3,1.0,6-10,245.0,PF,Georgia Tech,Fr.,2010,Derrick Favors
+3,4,1.0,6-7,206.0,SF,Syracuse,Jr.,2010,Wesley Johnson
+4,5,1.0,6-11,247.0,PF/C,Georgetown,So.,2010,Greg Monroe
+5,6,1.0,6-9,240.0,PF,Kentucky,Jr.,2010,Patrick Patterson
+6,7,1.0,6-11,292.0,PF/C,Kentucky,Fr.,2010,De Cousins
+7,8,1.0,6-9,218.0,SF/PF,Nevada,So.,2010,Luke Babbitt
+8,9,4.0,6-8,216.0,SF,Wake Forest,So.,2010,Al Aminu
+9,10,2.0,6-9,214.0,SF,Fresno St.,So.,2010,Paul George
+10,11,,6-10,227.0,PF,North Carolina,So.,2010,Ed Davis
+11,12,2.0,6-6,210.0,SG,Kansas,Fr.,2010,Xavier Henry
+12,13,2.0,6-3,180.0,SG,Texas,Fr.,2010,Avery Bradley
+13,14,4.0,7-0,227.0,C,Marshall,Fr.,2010,Hassan Whiteside
+14,15,1.0,6-10,236.0,C,Kansas,Jr.,2010,Cole Aldrich
+15,16,1.0,6-8,211.0,SF,Butler,So.,2010,Gordon Hayward
+16,17,-7.0,6-10,237.0,PF,Baylor,Jr.,2010,Ekpe Udoh
+17,18,1.0,6-8,208.0,SF,West Virginia,So.,2010,Devin Ebanks
+18,19,1.0,6-6,208.0,SG,Oklahoma State,Jr.,2010,James Anderson
+19,20,1.0,6-10,269.0,PF/C,Kentucky,Fr.,2010,Daniel Orton
+20,21,1.0,6-4,180.0,SG,Memphis,So.,2010,Elliot Williams
+21,22,2.0,6-3,190.0,PG/SG,Nevada,Jr.,2010,Armon Johnson
+22,23,2.0,6-10,229.0,PF,Iowa St.,Jr.,2010,Craig Brackins
+23,24,2.0,6-9,233.0,PF,Georgia Tech,Jr.,2010,Gani Lawal
+24,25,2.0,6-4,216.0,SG,South Florida,Jr.,2010,Dominique Jones
+25,26,-3.0,6-5,203.0,PG/SG,Mississippi,So.,2010,Terrico White
+26,27,1.0,6-1,192.0,PG/SG,Kentucky,Fr.,2010,Eric Bledsoe
+27,28,1.0,6-10,222.0,PF/C,VCU,Jr.,2010,Larry Sanders
+28,29,1.0,6-7,227.0,SF,Texas,Sr.,2010,Damion James
+29,30,1.0,6-8,213.0,SF,UConn,Sr.,2010,Stanley Robinson
+30,31,1.0,6-9,263.0,PF/C,Cholet,1989,2010,Kevin Seraphin
+31,32,1.0,6-4,208.0,PG/SG,Oklahoma,So.,2010,Willie Warren
+32,33,1.0,6-6,227.0,SG,Cincinnati,Fr.,2010,Lance Stephenson
+33,34,1.0,6-10,223.0,SF,Red Star,1988,2010,Nemanja Bjelica
+34,35,1.0,6-7,215.0,SF,Washington,Sr.,2010,Quincy Pondexter
+35,36,1.0,6-4,198.0,SG,Xavier,So.,2010,Jordan Crawford
+36,37,1.0,6-7,236.0,PF,Clemson,Sr.,2010,Trevor Booker
+37,38,1.0,6-8,241.0,PF,Miami,Sr.,2010,Dwayne Collins
+38,39,1.0,6-6,226.0,SF,Marquette,Sr.,2010,Lazar Hayward
+39,40,1.0,6-9,296.0,PF,Oklahoma,Fr.,2010,Tiny Gallon
+40,41,1.0,7-1,244.0,C,Tulsa,Sr.,2010,Jerome Jordan
+41,42,1.0,7-1,237.0,C,Florida St.,So.,2010,Solomon Alabi
+42,43,1.0,6-7,225.0,SF,West Virginia,Sr.,2010,Da Butler
+43,44,1.0,7-1,235.0,C,Brose Baskets,1989,2010,Tibor Pleiss
+44,45,1.0,6-6,211.0,PG/SG,Maryland,Sr.,2010,Greivis Vasquez
+45,46,10.0,6-5,185.0,SG,Michigan,Jr.,2010,Manny Harris
+46,47,1.0,6-5,209.0,PG/SG,Alabama,Sr.,2010,Mikhail Torrance
+47,48,1.0,6-9,250.0,PF,DePaul,Jr.,2010,Mac Koshwal
+48,49,-2.0,6-9,210.0,PF,Mississippi St.,Sr.,2010,Jarvis Varnado
+49,50,,6-8,205.0,PF,Tulsa 66ers (D-League),1989,2010,Latavious Williams
+50,51,,6-11,268.0,C,Radford,Sr.,2010,Art Parakhouski
+51,52,,6-5,214.0,PG/SG,Gonzaga,Sr.,2010,Matt Bouldin
+52,53,,6-8,245.0,PF,Louisville,So.,2010,Samardo Samuels
+53,54,,6-6,204.0,SF,New Mexico,Jr.,2010,Darington Hobson
+54,55,,6-0,175.0,PG,Kansas State,Sr.,2010,Denis Clemente
+55,56,1.0,6-7,215.0,SF,Iowa St.,Sr.,2010,Marquis Gilstrap
+56,57,1.0,7-0,240.0,C,Rutgers,Sr.,2010,Hamady Ndiaye
+57,58,1.0,6-9,232.0,SF/PF,Seattle,Jr.,2010,Charles Garcia
+58,59,1.0,6-7,207.0,SF,Maryland,Sr.,2010,Landon Milbourne
+59,60,1.0,6-7,240.0,SF/PF,Notre Dame,Sr.,2010,Luke Harangody
+60,61,1.0,5-11,217.0,PG,Kansas,Sr.,2010,Sherron Collins
+61,62,1.0,6-6,178.0,PG/SG,Dynamo Moscow,1988,2010,Alexey Shved
+62,63,14.0,6-5,192.0,SG,Syracuse,Sr.,2010,Andy Rautins
+63,64,,6-10,250.0,C,Vanderbilt,Jr.,2010,Ogilvy Ogilvy
+64,65,,6-11,240.0,C,FMP Zeleznik,1988,2010,Miroslav Raduljica
+65,66,,6-11,303.0,C,Texas,Sr.,2010,Dexter Pittman
+66,67,,6-10,239.0,PF,Arkansas,Sr.,2010,Michael Washington
+67,68,,6-10,275.0,PF/C,CB Murcia,1988,2010,Paulo Prestes
+68,69,,7-0,230.0,PF/C,Gran Canaria,1991,2010,Ryan Richards
+69,70,32.0,6-2,180.0,PG,Strasbourg,1989,2010,Thomas Heurtel
+70,71,-1.0,6-9,280.0,PF,UTEP,Jr.,2010,Derrick Caracter
+71,72,-1.0,6-3,180.0,SG,UConn,Sr.,2010,Jerome Dyson
+72,73,-1.0,6-6,205.0,SF,Texas A&M Corpus Christi,Sr.,2010,Kevin Palmer
+73,74,-1.0,6-6,212.0,SF,Bornova (Turkey),1986,2010,Tyler Smith
+74,75,-1.0,6-10,220.0,SF/PF,Louisiana Tech,Sr.,2010,Magnum Rolle
+75,76,-1.0,6-7,205.0,SG,Tennessee,Sr.,2010,Prince Prince
+76,77,-1.0,6-6,220.0,SG/SF,California,Sr.,2010,Theo Robertson
+77,78,1.0,6-3,200.0,PG/SG,Tulsa,Sr.,2010,Ben Uzoh
+78,79,1.0,6-6,210.0,SG/SF,Rider,Sr.,2010,Ryan Thompson
+79,80,1.0,6-11,235.0,PF,Telekom Baskets Bonn,1988,2010,Tim Ohlbrecht
+80,81,1.0,6-8,240.0,PF,North Carolina,Sr.,2010,Deon Thompson
+81,82,1.0,5-10,203.0,PG,Oklahoma,Fr.,2010,Tommy Griffin
+82,83,1.0,6-6,180.0,PG/SG,Duke,Sr.,2010,Jon Scheyer
+83,84,1.0,6-6,198.0,SG,Siena,Sr.,2010,Edwin Ubiles
+84,85,1.0,6-8,204.0,SF,Louisiana Lafayette,Sr.,2010,Tyren Johnson
+85,86,1.0,6-8,230.0,SF/PF,Michigan,Sr.,2010,De Sims
+86,87,1.0,6-6,210.0,SG,Virginia,So.,2010,Sylven Landesberg
+87,88,1.0,6-8,246.0,PF,Tennessee,Sr.,2010,Wayne Chism
+88,89,1.0,6-5,225.0,SF,Vermont,Sr.,2010,Marqus Blakely
+89,90,1.0,5-10,165.0,PG,California,Sr.,2010,Jerome Randle
+90,91,1.0,6-7,210.0,SF,Michigan St.,Sr.,2010,Raymar Morgan
+91,92,1.0,6-3,210.0,SG,Houston,Sr.,2010,Aubrey Coleman
+92,93,1.0,6-7,210.0,SF,Stanford,Sr.,2010,Landry Fields
+93,94,1.0,6-6,210.0,SG,USC,Sr.,2010,Marcus Johnson
+94,95,1.0,6-10,265.0,C,St. Mary's,Sr.,2010,Omar Samhan
+95,96,1.0,6-7,200.0,SF,South Carolina,Sr.,2010,Dominique Archie
+96,97,1.0,7-3,293.0,C,Hemofarm,1988,2010,Boban Marjanovic
+97,98,1.0,6-10,226.0,SF,Real Madrid,1988,2010,Vladimir Dasic
+98,99,1.0,6-5,210.0,SG/SF,California,Sr.,2010,Patrick Christopher
+99,100,1.0,6-1,185.0,PG,Villanova,Sr.,2010,Scottie Reynolds
+0,1,1.0,6-8,248.0,SF/PF,Arizona,So.,2011,Derrick Williams
+1,2,2.0,6-11,259.0,PF/C,Kentucky,Fr.,2011,Enes Kanter
+2,3,,6-3,191.0,PG,Duke,Fr.,2011,Kyrie Irving
+3,4,1.0,6-3,177.0,PG/SG,Kentucky,Fr.,2011,Brandon Knight
+4,5,2.0,7-0,224.0,PF,Benetton Treviso,1990,2011,Donatas Motiejunas
+5,6,5.0,6-11,230.0,SF/PF,Partizan Belgrade,1990,2011,Jan Vesely
+6,7,5.0,6-11,240.0,C,Lietuvos Rytas,1992,2011,Jonas Valanciunas
+7,8,2.0,6-2,196.0,PG,,Sr.,2011,Jimmer Fredette
+8,9,6.0,6-9,227.0,PF,Texas,Fr.,2011,Tristan Thompson
+9,10,-4.0,6-6,193.0,PG/SG,Colorado,So.,2011,Alec Burks
+10,11,8.0,6-7,206.0,SG/SF,Washington State,Jr.,2011,Klay Thompson
+11,12,-3.0,6-1,184.0,PG,UConn,Jr.,2011,Kemba Walker
+12,13,-5.0,6-7,227.0,SF,San Diego St.,So.,2011,Kawhi Leonard
+13,14,-1.0,6-8,230.0,SF/PF,Kansas,Jr.,2011,Marcus Morris
+14,15,-1.0,6-9,241.0,PF,Kansas,Jr.,2011,Markieff Morris
+15,16,4.0,6-8,228.0,SG/SF,Texas,So.,2011,Jordan Hamilton
+16,17,-1.0,6-8,223.0,SF/PF,Tennessee,Fr.,2011,Tobias Harris
+17,18,-1.0,6-8,187.0,SG/SF,UCLA,So.,2011,Tyler Honeycutt
+18,19,-1.0,6-9,230.0,SF/PF,Florida St.,Jr.,2011,Chris Singleton
+19,20,2.0,6-5,195.0,SG,Providence,Sr.,2011,Marshon Brooks
+20,21,4.0,6-10,239.0,PF,Georgia,Jr.,2011,Trey Thompkins
+21,22,6.0,6-7,225.0,PF,Morehead St.,Sr.,2011,Kenneth Faried
+22,23,,6-4,190.0,PG,Michigan,So.,2011,Darius Morris
+23,24,,6-9,243.0,C,Fuenlabrada,1992,2011,Bismack Biyombo
+24,25,7.0,6-10,220.0,PF,Purdue,Sr.,2011,Ja Johnson
+25,26,1.0,6-9,228.0,PF,Richmond,Sr.,2011,Justin Harper
+26,27,-6.0,6-10,211.0,SF,Union Olimpija,1992,2011,Davis Bertans
+27,28,11.0,6-11,260.0,C,USC,Jr.,2011,Nikola Vucevic
+28,29,4.0,6-1,174.0,PG,Cleveland St.,Sr.,2011,Norris Cole
+29,30,-4.0,6-9,228.0,SF,Duke,Sr.,2011,Kyle Singler
+30,31,,6-10,262.0,PF/C,Tokyo Apache,1991,2011,Jeremy Tyler
+31,32,14.0,6-10,225.0,SF/PF,Real Madrid,1991,2011,Nikola Mirotic
+32,33,-4.0,6-2,205.0,PG/SG,Butler,Jr.,2011,Shelvin Mack
+33,34,3.0,6-3,189.0,PG/SG,Duke,Sr.,2011,Nolan Smith
+34,35,5.0,6-3,200.0,PG/SG,Boston College,Jr.,2011,Reggie Jackson
+35,36,,6-10,221.0,SF,Florida,Sr.,2011,Chandler Parsons
+36,37,21.0,6-4,205.0,SG/SF,Georgia,Jr.,2011,Travis Leslie
+37,38,4.0,6-11,223.0,PF,Wisconsin,Sr.,2011,Jon Leuer
+38,39,-1.0,6-5,198.0,PG/SG,UCLA,Jr.,2011,Malcolm Lee
+39,40,-10.0,6-3,195.0,PG/SG,Kansas,Fr.,2011,Josh Selby
+40,41,-7.0,6-9,247.0,PF,Maryland,So.,2011,Jordan Williams
+41,42,-1.0,6-3,186.0,PG,Texas,Fr.,2011,Cory Joseph
+42,43,10.0,6-5,222.0,PG/SG,Georgia Tech,Jr.,2011,Iman Shumpert
+43,44,,6-2,198.0,PG/SG,Charleston,Sr.,2011,Andrew Goudelock
+44,45,6.0,6-11,217.0,C,Oakland,Sr.,2011,Keith Benson
+45,46,16.0,6-3,216.0,PG/SG,Hofstra,Sr.,2011,Charles Jenkins
+46,47,21.0,6-10,232.0,PF,Washington,Sr.,2011,Matthew Amaning
+47,48,26.0,6-7,195.0,SG/SF,Fenerbahe Ulke,1989,2011,Bojan Bogdanovic
+48,49,51.0,6-7,190.0,SG,Regal FC Barcelona,1989,2011,Xavi Rabaseda
+49,50,21.0,6-7,222.0,SF,Marquette,Sr.,2011,Jimmy Butler
+50,51,1.0,6-9,223.0,PF,San Diego St.,Sr.,2011,Malcolm Thomas
+51,52,-7.0,6-9,220.0,PF,St. Louis,Jr.,2011,Willie Reed
+52,53,-3.0,6-6,170.0,SG/SF,Mississippi St.,Sr.,2011,Ravern Johnson
+53,54,9.0,6-6,200.0,PG,UTEP,Sr.,2011,Julyan Stone
+54,55,,6-9,242.0,PF,Syracuse,Sr.,2011,Rick Jackson
+55,56,46.0,6-6,202.0,SG,Kentucky,Jr.,2011,De Liggins
+56,57,2.0,6-9,253.0,PF/C,Fresno St.,So.,2011,Greg Smith
+57,58,-11.0,6-7,207.0,SF,Illinois,Fr.,2011,Jereme Richmond
+58,59,-11.0,6-4,191.0,PG/SG,Purdue,Sr.,2011,Moore Moore
+59,60,-4.0,6-6,216.0,SG,Ohio St.,Sr.,2011,David Lighty
+60,61,,6-4,192.0,SG,George Mason,Sr.,2011,Cam Long
+61,62,2.0,6-4,195.0,SG,Tulsa,Sr.,2011,Justin Hurtt
+62,63,-3.0,6-4,188.0,SG,Baylor,Sr.,2011,Lace Dunn
+63,64,38.0,6-8,255.0,PF,Washington State,Jr.,2011,De Casto
+64,65,4.0,6-8,242.0,PF,VCU,Sr.,2011,Jamie Skeen
+65,66,-17.0,6-8,214.0,SF,Southern Miss.,Sr.,2011,Gary Flowers
+66,67,18.0,6-5,181.0,PG,Iowa St.,Sr.,2011,Diante Garrett
+67,68,34.0,6-10,244.0,PF,Florida,Sr.,2011,Vernon Macklin
+68,69,10.0,6-6,235.0,PF,New Mexico Thunderbirds,1988,2011,Jamine Peterson
+69,70,25.0,6-4,200.0,SG,Northern Illinois,Sr.,2011,Xavier Silas
+70,71,-6.0,6-8,217.0,SF/PF,Dayton,Sr.,2011,Chris Wright
+71,72,4.0,6-6,197.0,SG,Ohio St.,Sr.,2011,Jon Diebler
+72,73,-3.0,6-9,213.0,SF/PF,Illinois,Sr.,2011,Mike Davis
+73,74,-8.0,6-3,204.0,PG,Illinois,Sr.,2011,Demetri Camey
+74,75,-8.0,6-4,208.0,PG/SG,Pittsburgh,Sr.,2011,Brad Wanamaker
+75,76,22.0,6-5,210.0,SG,Boston University,Sr.,2011,John Holland
+76,77,-20.0,6-7,205.0,SG/SF,Tennessee,Jr.,2011,Scotty Hopson
+77,78,-6.0,6-7,219.0,SF,St. Johns,Sr.,2011,Justin Brownlee
+78,79,23.0,6-1,180.0,PG,Texas,Sr.,2011,Dogus Balbay
+79,80,-7.0,6-10,238.0,PF,Hapoel Migdal Jerusalem,1989,2011,Michael Dunigan
+80,81,1.0,6-4,225.0,SG,Georgetown,Sr.,2011,Austin Freeman
+81,82,-2.0,6-6,227.0,SF/PF,Virginia Tech,Sr.,2011,Jeff Allen
+82,83,3.0,6-7,225.0,SF,Rhode Island,Sr.,2011,Delroy James
+83,84,-7.0,6-5,193.0,PG/SG,Northeastern,Sr.,2011,Chaisson Allen
+84,85,-7.0,6-3,203.0,PG/SG,Notre Dame,Sr.,2011,Ben Hansbrough
+85,86,3.0,6-0,202.0,PG,Villanova,Sr.,2011,Corey Fisher
+86,87,6.0,6-0,160.0,PG,UTEP,Sr.,2011,Randy Culpepper
+87,88,3.0,6-9,225.0,PF,Temple,Sr.,2011,Lavoy Allen
+88,89,5.0,6-10,225.0,PF,Louisville,Jr.,2011,Terrence Jennings
+89,90,-9.0,6-9,200.0,SF/PF,CB Granada,1989,2011,Pablo Aguilar
+90,91,8.0,6-6,213.0,SG,Pittsburgh,Sr.,2011,Gilbert Brown
+91,92,-9.0,6-4,210.0,SG,Gonzaga,Sr.,2011,Steven Gray
+92,93,4.0,6-4,180.0,PG/SG,Colorado,Sr.,2011,Cory Higgins
+93,94,-6.0,6-0,194.0,PG/SG,Kansas State,Sr.,2011,Jacob Pullen
+94,95,-8.0,6-9,213.0,PF,South Carolina,Sr.,2011,Sam Muldrow
+95,96,6.0,6-8,207.0,SF/PF,Florida,Sr.,2011,Alex Tyus
+96,97,5.0,6-5,185.0,SG,Seton Hall,Sr.,2011,Jeremy Hazell
+97,98,3.0,6-4,188.0,SG,Siena,Sr.,2011,Clarence Jackson
+98,99,3.0,6-8,225.0,SF/PF,Memphis,Sr.,2011,Ferrakohn Hall
+99,100,2.0,6-7,206.0,PG/SG,UC Davis,Sr.,2011,Mark Payne
+0,1,1.0,6-10,222.0,PF,Kentucky,Fr.,2012,Anthony Davis
+1,2,1.0,6-11,279.0,PF/C,UConn,Fr.,2012,Andre Drummond
+2,3,1.0,6-8,228.0,SF,North Carolina,So.,2012,Harrison Barnes
+3,4,2.0,6-4,202.0,SG,Florida,Fr.,2012,Bradley Beal
+4,5,,6-5,179.0,SG,UConn,So.,2012,Jeremy Lamb
+5,6,1.0,6-9,244.0,PF,Kansas,Jr.,2012,Thomas Robinson
+6,7,2.0,6-3,189.0,PG,Weber St.,Jr.,2012,Damian Lillard
+7,8,,6-7,233.0,SF,Kentucky,Fr.,2012,Michael Gilchrist
+8,9,1.0,6-7,197.0,SG/SF,Washington,So.,2012,Terrence Ross
+9,10,2.0,6-5,203.0,SG,Duke,Fr.,2012,Austin Rivers
+10,11,2.0,7-1,250.0,C,Illinois,So.,2012,Meyers Leonard
+11,12,5.0,7-0,247.0,PF/C,North Carolina,Sr.,2012,Tyler Zeller
+12,13,2.0,6-4,197.0,PG,North Carolina,So.,2012,Kendall Marshall
+13,14,-3.0,6-8,207.0,SF,St. Johns,Fr.,2012,Moe Harkless
+14,15,9.0,6-10,234.0,PF,St. Bonaventure,Sr.,2012,Andrew Nicholson
+15,16,-2.0,6-11,233.0,PF,Mississippi St.,Jr.,2012,Arnett Moultrie
+16,17,-1.0,6-4,215.0,SG,Syracuse,So.,2012,Dion Waiters
+17,18,,6-11,234.0,SF/PF,Baylor,So.,2012,Perry Jones
+18,19,1.0,6-9,268.0,PF,Ohio St.,So.,2012,Jared Sullinger
+19,20,-1.0,6-10,216.0,PF,North Carolina,Jr.,2012,John Henson
+20,21,1.0,6-9,252.0,SF/PF,Kentucky,So.,2012,Terrence Jones
+21,22,3.0,6-2,189.0,PG,Kentucky,Fr.,2012,Marquis Teague
+22,23,,6-8,261.0,SF,Iowa St.,So.,2012,Royce White
+23,24,3.0,6-4,212.0,SG,Vanderbilt,Jr.,2012,John Jenkins
+24,25,-4.0,6-4,199.0,SG,Kentucky,So.,2012,Doron Lamb
+25,26,3.0,6-10,219.0,SF,Baylor,Fr.,2012,Quincy Miller
+26,27,4.0,6-6,174.0,SG/SF,Memphis,So.,2012,Will Barton
+27,28,,6-8,216.0,SG/SF,Texas A&M,Jr.,2012,Khris Middleton
+28,29,1.0,6-6,203.0,PG/SG,Washington,Fr.,2012,Tony Wroten
+29,30,-4.0,6-7,213.0,SF,Vanderbilt,Sr.,2012,Jeffery Taylor
+30,31,1.0,7-0,255.0,C,Syracuse,So.,2012,Fab Melo
+31,32,1.0,6-5,188.0,SG,Oregon St.,Jr.,2012,Jared Cunningham
+32,33,1.0,6-11,264.0,C,Vanderbilt,Sr.,2012,Festus Ezeli
+33,34,1.0,6-7,236.0,SF/PF,Michigan St.,Sr.,2012,Draymond Green
+34,35,1.0,6-7,204.0,SG,Union Poitiers Basket 86,1992,2012,Evan Fournier
+35,36,1.0,6-10,230.0,PF,Galatasaray,1991,2012,Furkan Aldemir
+36,37,10.0,6-7,238.0,SF,Kentucky,Sr.,2012,Darius Miller
+37,38,1.0,6-7,215.0,SF,Syracuse,Sr.,2012,Kris Joseph
+38,39,1.0,6-6,195.0,SG,Tennessee Tech,Sr.,2012,Kevin Murphy
+39,40,4.0,6-6,192.0,SG,Missouri,Sr.,2012,Kim English
+40,41,-3.0,6-9,239.0,PF,New Mexico,Sr.,2012,Drew Gordon
+41,42,-1.0,6-9,230.0,SF,Olympiacos,1990,2012,Kostas Papanikolaou
+42,43,-1.0,6-8,237.0,PF,Virginia,Sr.,2012,Mike Scott
+43,44,6.0,6-3,212.0,SG,Marquette,Sr.,2012,Darius Odom
+44,45,,6-9,217.0,PF,Alabama,Sr.,2012,Ja Green
+45,46,-3.0,6-5,215.0,SG,Ohio St.,Sr.,2012,William Buford
+46,47,-1.0,6-8,205.0,SG,Georgetown,Jr.,2012,Hollis Thompson
+47,48,,6-7,201.0,PG/SG,Cajasol Sevilla,1991,2012,Tomas Satoransky
+48,49,,6-9,217.0,SF,Belgacom Spirou,1991,2012,Tornike Shengelia
+49,50,2.0,6-7,251.0,PF,West Virginia,Sr.,2012,Kevin Jones
+50,51,,6-8,224.0,PF,Baylor,Sr.,2012,Quincy Acy
+51,52,1.0,6-11,260.0,C,Gonzaga,Sr.,2012,Robert Sacre
+52,53,8.0,6-5,197.0,SG,Dayton,Sr.,2012,Chris Johnson
+53,54,18.0,6-6,216.0,SG/SF,IUPUI,Sr.,2012,Alex Young
+54,55,,6-1,205.0,PG,Villanova,Jr.,2012,Maalik Wayns
+55,56,,6-11,251.0,C,Georgetown,Sr.,2012,Henry Sims
+56,57,,6-10,223.0,PF,UAB,Sr.,2012,Cameron Moore
+57,58,1.0,6-10,195.0,SF/PF,Mississippi,Sr.,2012,Terrance Henry
+58,59,1.0,7-0,252.0,PF/C,Duke,Sr.,2012,Miles Plumlee
+59,60,-2.0,6-3,190.0,PG,UCAM Murcia,1991,2012,Josep Franch
+60,61,1.0,6-5,188.0,SG,Temple,Sr.,2012,Ramone Moore
+61,62,1.0,7-0,260.0,C,LSU,Jr.,2012,Justin Hamilton
+62,63,-9.0,6-3,180.0,PG/SG,Kansas,Sr.,2012,Tyshawn Taylor
+63,64,3.0,6-2,205.0,PG,Iona,Sr.,2012,Scott Machado
+64,65,1.0,6-10,241.0,PF,Norfolk St.,Sr.,2012,Kyle Quinn
+65,66,-2.0,6-6,220.0,SF,Alabama,Jr.,2012,Tony Mitchell
+66,67,7.0,6-5,224.0,SF,UC Santa Barbara,Sr.,2012,Orlando Johnson
+67,68,-3.0,6-10,230.0,PF,Florida St.,Sr.,2012,Bernard James
+68,69,-1.0,6-3,188.0,PG/SG,Missouri,Sr.,2012,Marcus Denmon
+69,70,,6-11,266.0,PF,Florida St.,Sr.,2012,Xavier Gibson
+70,71,-2.0,6-8,261.0,PF,Seton Hall,Sr.,2012,Herb Pope
+71,72,-1.0,6-2,202.0,PG/SG,Texas,Jr.,2012,Covan Brown
+72,73,,6-10,235.0,PF,EA7 Milano,1990,2012,Leon Radosevic
+73,74,1.0,6-6,241.0,SF/PF,Marquette,Sr.,2012,Jae Crowder
+74,75,1.0,6-1,180.0,PG,Oakland,Sr.,2012,Reggie Hamilton
+75,76,1.0,6-10,236.0,PF,Galatasaray,1990,2012,Ilkan Karaman
+76,77,1.0,6-8,218.0,SF,Purdue,Sr.,2012,Robbie Hummel
+77,78,1.0,6-2,180.0,PG,Mississippi St.,Sr.,2012,Dee Bost
+78,79,1.0,6-0,187.0,PG,Xavier,Sr.,2012,Tu Holloway
+79,80,1.0,6-9,221.0,PF,Buffalo,Sr.,2012,Mitchell Watt
+80,81,1.0,6-8,208.0,SG/SF,UNLV,Sr.,2012,Chace Stanback
+81,82,1.0,6-9,289.0,PF/C,Cincinnati,Sr.,2012,Yancy Gates
+82,83,1.0,6-5,228.0,SF,Fairfield,Sr.,2012,Rakim Sanders
+83,84,1.0,6-10,231.0,PF/C,Yale,Sr.,2012,Greg Mangano
+84,85,2.0,6-9,258.0,PF,Detroit,Sr.,2012,Eli Holman
+85,86,16.0,7-0,230.0,C,Union Olimpija,1992,2012,Alen Omic
+86,87,2.0,6-8,244.0,PF,Missouri,Sr.,2012,Ricardo Ratliffe
+87,88,2.0,6-6,212.0,SG/SF,VCU,Sr.,2012,Bradford Burgess
+88,89,2.0,6-4,216.0,SG,Colorado,Sr.,2012,Carlon Brown
+89,90,2.0,7-0,252.0,C,Wichita State,Sr.,2012,Garrett Stutz
+90,91,2.0,6-3,190.0,SG,Cincinnati,Sr.,2012,Dion Dixon
+91,92,5.0,5-10,170.0,PG,Long Beach State,Sr.,2012,Casper Ware
+92,93,2.0,6-4,196.0,SG,USA,Sr.,2012,Charlie Westbrook
+93,94,2.0,6-11,265.0,C,Xavier,Sr.,2012,Kenny Frease
+94,95,7.0,6-1,170.0,PG,Pennsylvania,Sr.,2012,Zack Rosen
+95,96,2.0,6-5,201.0,SG,Old Dominion,Sr.,2012,Kent Bazemore
+96,97,2.0,6-5,211.0,SG/SF,Long Beach State,Sr.,2012,Larry Anderson
+97,98,2.0,6-8,230.0,PF,Nevada,Sr.,2012,Dario Hunt
+98,99,2.0,6-3,183.0,SG,Arizona,Sr.,2012,Kyle Fogg
+99,100,2.0,6-3,175.0,SG,,Sr.,2012,Nick Barbour
+0,1,1.0,6-5,190.0,SG,Kansas,Fr.,2013,Ben Lemore
+1,2,2.0,7-0,230.0,PF/C,Indiana,So.,2013,Cody Zeller
+2,3,3.0,6-3,197.0,PG/SG,Lehigh,Sr.,2013,Mc Collum
+3,4,-1.0,7-1,255.0,C,Maryland,So.,2013,Alex Len
+4,5,2.0,6-4,213.0,SG/SF,Indiana,Jr.,2013,Victor Oladipo
+5,6,-1.0,6-11,206.0,PF/C,Kentucky,Fr.,2013,Nerlens Noel
+6,7,1.0,6-9,200.0,SF,Georgetown,So.,2013,Otto Porter
+7,8,1.0,6-7,240.0,SF/PF,UNLV,Fr.,2013,Anthony Bennett
+8,9,4.0,7-0,220.0,PF/C,Estudiantes,1992,2013,Lucas Nogueira
+9,10,1.0,6-2,168.0,PG,New Yorker Phantoms Braunschweig,1993,2013,Dennis Schroder
+10,11,-1.0,6-1,190.0,PG,Michigan,So.,2013,Trey Burke
+11,12,,6-6,205.0,SG,Georgia,So.,2013,Kentavious Pope
+12,13,1.0,7-0,255.0,C,Pittsburgh,Fr.,2013,Steven Adams
+13,14,1.0,6-6,185.0,PG,Syracuse,So.,2013,Michael Williams
+14,15,1.0,6-10,205.0,SF,Filathlitikos,1994,2013,Giannis Adetokoubo
+15,16,1.0,6-6,200.0,SG,Michigan,Jr.,2013,Tim Hardaway
+16,17,1.0,6-6,225.0,SF,UCLA,Fr.,2013,Shabazz Muhammad
+17,18,1.0,7-0,234.0,C,Gonzaga,Jr.,2013,Kelly Olynyk
+18,19,1.0,6-9,236.0,SF/PF,North Texas,So.,2013,Tony Mitchell
+19,20,1.0,6-7,198.0,SG/SF,New Mexico,Jr.,2013,Tony Snell
+20,21,1.0,6-5,196.0,PG,South Dakota St.,Sr.,2013,Nate Wolters
+21,22,1.0,6-7,197.0,SG/SF,BC Triumph,1993,2013,Sergey Karasev
+22,23,1.0,5-11,171.0,PG,Miami,So.,2013,Shane Larkin
+23,24,1.0,6-11,230.0,C,Louisville,Jr.,2013,Gorgui Dieng
+24,25,1.0,6-11,238.0,PF,Duke,Sr.,2013,Mason Plumlee
+25,26,5.0,6-9,217.0,SF/PF,ASVEL Villeubanne,1993,2013,Livio Charles
+26,27,1.0,6-6,197.0,SG,California,Jr.,2013,Allen Crabbe
+27,28,7.0,6-3,180.0,PG/SG,Virginia Tech,Sr.,2013,Erick Green
+28,29,,6-0,190.0,PG,Murray St.,Sr.,2013,Isaiah Canaan
+29,30,,7-2,238.0,C,Cholet,1992,2013,Rudy Gobert
+30,31,3.0,6-7,200.0,SG/SF,North Carolina,Jr.,2013,Reggie Bullock
+31,32,1.0,6-5,191.0,SG/SF,San Diego St.,Jr.,2013,Jamaal Franklin
+32,33,-1.0,6-6,211.0,SG,USA,Jr.,2013,Glen Rice
+33,34,-7.0,6-6,197.0,SG,Providence,Fr.,2013,Ricardo Ledo
+34,35,1.0,6-5,189.0,PG/SG,NC State,Jr.,2013,Lorenzo Brown
+35,36,1.0,7-0,222.0,C,Kansas,Sr.,2013,Jeff Withey
+36,37,1.0,6-9,209.0,SF/PF,NC State,Jr.,2013,Leslie Leslie
+37,38,1.0,6-7,200.0,SG/SF,Long Beach State,Sr.,2013,James Ennis
+38,39,1.0,6-7,209.0,SF,Tennessee State,Sr.,2013,Robert Covington
+39,40,1.0,6-8,221.0,SF/PF,Syracuse,Sr.,2013,James Southerland
+40,41,1.0,5-10,176.0,PG,Baylor,Sr.,2013,Pierre Jackson
+41,42,1.0,6-2,180.0,PG,Texas,So.,2013,Myck Kabongo
+42,43,1.0,6-10,240.0,PF,Florida,Sr.,2013,Erik Murphy
+43,44,1.0,6-10,242.0,PF/C,Miami,Sr.,2013,Kenny Kadji
+44,45,1.0,6-8,236.0,PF/C,Minnesota,Sr.,2013,Trevor Mbakwe
+45,46,1.0,6-7,200.0,SF,Minnesota,Sr.,2013,Rodney Williams
+46,47,1.0,6-9,235.0,PF/C,Valencia,1991,2013,Bojan Dubljevic
+47,48,1.0,6-6,220.0,SF/PF,Ohio St.,Jr.,2013,De Thomas
+48,49,1.0,6-11,230.0,PF,Duke,Sr.,2013,Ryan Kelly
+49,50,1.0,6-5,189.0,SG,Kentucky,Fr.,2013,Archie Goodwin
+50,51,1.0,6-10,232.0,PF,Arizona,Fr.,2013,Grant Jerrett
+51,52,1.0,6-1,190.0,PG,Detroit,Jr.,2013,Ray Callum
+52,53,1.0,6-6,190.0,SG,Barcelona Regal,1993,2013,Alex Abrines
+53,54,1.0,6-11,240.0,C,USC,Jr.,2013,Dewayne Dedmon
+54,55,1.0,6-6,203.0,SG/SF,Arizona St.,Sr.,2013,Carrick Felix
+55,56,1.0,6-8,226.0,SF,Ventspils,1992,2013,Janis Timma
+56,57,1.0,6-1,181.0,PG,Louisville,Sr.,2013,Peyton Siva
+57,58,1.0,6-3,190.0,PG/SG,Lietuvos Rytas,1991,2013,Nemanja Nedovic
+58,59,1.0,6-7,206.0,SF/PF,Colorado,Jr.,2013,Andre Roberson
+59,60,1.0,6-7,226.0,SF,Arizona,Sr.,2013,Solomon Hill
+60,61,1.0,6-6,232.0,SF,Memphis,So.,2013,Adonis Thomas
+61,62,1.0,6-9,240.0,PF,Illinois State,Sr.,2013,Jackie Carmichael
+62,63,1.0,6-5,197.0,PG/SG,Marquette,Jr.,2013,Vander Blue
+63,64,1.0,6-10,219.0,PF/C,TBB Trier,1991,2013,Vitalis Chikoko
+64,65,1.0,6-9,215.0,SF,Oklahoma,Jr.,2013,Amath Mbaye
+65,66,1.0,6-4,200.0,SG,Illinois,Sr.,2013,Brandon Paul
+66,67,1.0,6-5,188.0,SG/SF,Memphis,Sr.,2013,Stephens Stephens
+67,68,1.0,7-0,263.0,PF/C,Colorado St.,Sr.,2013,Colton Iverson
+68,69,1.0,6-7,250.0,PF/C,NC State,Sr.,2013,Richard Howell
+69,70,1.0,6-11,230.0,PF/C,Bucknell,Sr.,2013,Mike Muscala
+70,71,1.0,6-8,200.0,SF,BC Donetsk,1991,2013,Oleksandr Lypovyy
+71,72,1.0,6-5,200.0,SG,Florida St.,Sr.,2013,Michael Snaer
+72,73,1.0,6-3,179.0,SG,Arkansas,So.,2013,Young Young
+73,74,1.0,6-10,234.0,PF,Unicaja Malaga,1991,2013,Augusto Lima
+74,75,1.0,6-10,242.0,PF,BYU,Sr.,2013,Brandon Davies
+75,76,1.0,6-6,210.0,SG/SF,Chalon,1991,2013,Jordan Aboudou
+76,77,1.0,6-7,230.0,PF,Oregon,Sr.,2013,Arsalan Kazemi
+77,78,1.0,6-2,179.0,PG,Lagun Aro GBC,1992,2013,Raul Neto
+78,79,1.0,6-2,180.0,PG/SG,Duke,Sr.,2013,Seth Curry
+79,80,1.0,6-4,205.0,SG,Kansas State,Sr.,2013,Rodney Gruder
+80,81,1.0,6-9,255.0,PF/C,Missouri,Sr.,2013,Alex Oriakhi
+81,82,1.0,6-1,181.0,PG,Montana,Sr.,2013,Will Cherry
+82,83,1.0,6-9,230.0,PF,Ratiopharm Ulm,1992,2013,Daniel Theis
+83,84,1.0,6-11,240.0,PF/C,Barcelona Regal,1992,2013,Marko Todorovic
+84,85,1.0,6-9,200.0,SF/PF,St. Joseph's,Jr.,2013,Aiken Aiken
+85,86,1.0,6-7,240.0,SF/PF,Gonzaga,Sr.,2013,Elias Harris
+86,87,1.0,5-11,177.0,PG,Missouri,Jr.,2013,Phil Pressey
+87,88,1.0,6-8,242.0,SF/PF,Flamengo,1992,2013,Alexandre Paranhos
+88,89,1.0,6-9,270.0,PF/C,Michigan St.,Sr.,2013,Derrick Nix
+89,90,1.0,6-6,220.0,SG/SF,Arizona,Sr.,2013,Kevin Parrom
+90,91,1.0,6-9,245.0,PF,Notre Dame,Sr.,2013,Jack Cooley
+91,92,1.0,6-11,240.0,PF/C,KK Partizan,1991,2013,Joffrey Lauvergne
+92,93,1.0,6-5,203.0,SG,Miami,Sr.,2013,Durand Scott
+93,94,1.0,6-9,230.0,SF,Indiana,Sr.,2013,Christian Watford
+94,95,1.0,6-2,210.0,PG/SG,Syracuse,Sr.,2013,Brandon Triche
+95,96,1.0,6-2,195.0,PG/SG,Kansas,Sr.,2013,Elijah Johnson
+96,97,1.0,6-2,190.0,PG/SG,Florida,Sr.,2013,Kenny Boynton
+97,98,1.0,6-8,250.0,PF/C,Clemson,Sr.,2013,Devin Booker
+98,99,1.0,6-7,225.0,SF/PF,Murray St.,Sr.,2013,Ed Daniel
+99,100,1.0,6-7,240.0,PF,Arkansas,Jr.,2013,Marshawn Powell
+0,1,101.0,7-0,250.0,C,Kansas,Fr.,2014,Joel Embiid
+1,2,100.0,6-9,240.0,SF/PF,Duke,Fr.,2014,Jabari Parker
+2,3,99.0,6-8,200.0,SF,Kansas,Fr.,2014,Andrew Wiggins
+3,4,98.0,6-3,227.0,PG,Oklahoma State,So.,2014,Marcus Smart
+4,5,97.0,6-6,196.0,PG/SG,,1995,2014,Dante Exum
+5,6,96.0,6-9,250.0,PF,Kentucky,Fr.,2014,Julius Randle
+6,7,95.0,6-9,247.0,PF,Indiana,Fr.,2014,Noah Vonleh
+7,8,94.0,6-6,180.0,PG/SG,UCLA,Fr.,2014,Zach Vine
+8,9,93.0,6-4,185.0,PG,Louisiana Lafayette,Jr.,2014,Elfrid Payton
+9,10,92.0,6-7,220.0,SF,Creighton,Sr.,2014,Doug Dermott
+10,11,91.0,6-9,220.0,PF,Arizona,Fr.,2014,Aaron Gordon
+11,12,90.0,6-4,205.0,SG,Michigan St.,So.,2014,Gary Harris
+12,13,89.0,6-8,208.0,SF,Duke,So.,2014,Rodney Hood
+13,14,88.0,6-6,207.0,SG,Michigan,So.,2014,Nik Stauskas
+14,15,87.0,6-7,211.0,SF,Michigan,So.,2014,Glenn Robinson
+15,16,86.0,6-8,220.0,SF,NC State,So.,2014,Warren Warren
+16,17,85.0,6-9,230.0,SF,UCLA,So.,2014,Kyle Anderson
+17,18,84.0,6-10,225.0,SF/PF,Anadolu Efes,1994,2014,Dario Saric
+18,19,83.0,6-4,186.0,PG/SG,Missouri,Jr.,2014,Jordan Clarkson
+19,20,82.0,6-0,175.0,PG,UConn,Sr.,2014,Shabazz Napier
+20,21,81.0,6-2,180.0,PG,Syracuse,Fr.,2014,Tyler Ennis
+21,22,80.0,6-6,215.0,SG,Kentucky,Fr.,2014,James Young
+22,23,79.0,6-11,280.0,C,Cedevita Zagreb,1994,2014,Jusuf Nurkic
+23,24,78.0,6-8,214.0,SF,Syracuse,So.,2014,Jerami Grant
+24,25,77.0,6-7,210.0,SF/PF,Wichita State,Sr.,2014,Cleanthony Early
+25,26,76.0,6-5,201.0,SG,Washington,Sr.,2014,Wilcox Wilcox
+26,27,75.0,6-10,240.0,PF,Michigan St.,Sr.,2014,Adreian Payne
+27,28,74.0,6-5,209.0,SG,UCLA,So.,2014,Jordan Adams
+28,29,73.0,6-6,205.0,SG,KK Partizan,1992,2014,Bogdan Bogdanovic
+29,30,72.0,6-6,205.0,PG/SG,Colorado,Jr.,2014,Spencer Dinwiddie
+30,31,71.0,6-6,202.0,PG,Mega Vizura,1994,2014,Vasilje Micic
+31,32,70.0,6-6,196.0,SF,Clemson,Jr.,2014,Mc Daniels
+32,33,69.0,6-8,260.0,PF,Tennessee,Jr.,2014,Jarnell Stokes
+33,34,68.0,6-8,257.0,PF/C,LSU,Jr.,2014,Johnny Bryant
+34,35,67.0,6-4,185.0,SG,Oklahoma State,Sr.,2014,Markel Brown
+35,36,66.0,6-5,228.0,SG,USA,Jr.,2014,Hairston Hairston
+36,37,65.0,6-11,222.0,PF/C,Chalon,1994,2014,Clint Capela
+37,38,64.0,6-8,195.0,SF,UConn,Jr.,2014,De Daniels
+38,39,63.0,6-3,198.0,SG,Arizona,Jr.,2014,Nick Johnson
+39,40,62.0,6-11,235.0,PF,Stanford,Sr.,2014,Dwight Powell
+40,41,61.0,6-6,205.0,SF,Delaware 87ers,1992,2014,Thanasis Antetokounmpo
+41,42,60.0,6-3,186.0,PG,Xavier,So.,2014,Semaj Christon
+42,43,59.0,6-9,209.0,PF,UNLV,Jr.,2014,Khem Birch
+43,44,58.0,6-9,240.0,SF/PF,Roanne,1995,2014,Damien Inglis
+44,45,57.0,6-10,266.0,C,Michigan,So.,2014,Mitch Gary
+45,46,56.0,6-4,215.0,SG,Missouri,Jr.,2014,Jabari Brown
+46,47,55.0,6-9,230.0,PF,North Carolina,Jr.,2014,James Adoo
+47,48,54.0,6-10,252.0,PF,New Mexico,Sr.,2014,Cameron Bairstow
+48,49,53.0,6-1,193.0,PG/SG,Nevada,Sr.,2014,Deonte Burton
+49,50,52.0,6-8,218.0,SF,Syracuse,Sr.,2014,Fair Fair
+50,51,51.0,6-9,220.0,PF,Baylor,Sr.,2014,Cory Jefferson
+51,52,50.0,7-1,231.0,PF/C,Wisconsin Green Bay,Sr.,2014,Alec Brown
+52,53,49.0,6-7,230.0,SG/SF,Olimpia Milano,1992,2014,Alessandro Gentile
+53,54,48.0,7-0,245.0,C,Avtodor,1994,2014,Artem Klimenko
+54,55,47.0,6-8,195.0,SG,Mega Vizura,1993,2014,Nemanja Dangubic
+55,56,46.0,6-8,215.0,PF,St. Joseph's,Sr.,2014,Ronald Roberts
+56,57,45.0,6-4,200.0,PG/SG,Iowa St.,Sr.,2014,De Kane
+57,58,44.0,6-9,260.0,PF/C,Kansas,Sr.,2014,Tarik Black
+58,59,43.0,6-10,247.0,PF/C,Florida,Sr.,2014,Patric Young
+59,60,42.0,6-9,250.0,PF/C,VCU,Sr.,2014,Juvonte Reddic
+60,61,41.0,6-11,255.0,PF/C,Mega Vizura,1995,2014,Nikola Jokic
+61,62,40.0,7-3,260.0,C,Gran Canaria,1992,2014,Walter Tavares
+62,63,39.0,6-6,210.0,SG/SF,Seton Hall,Sr.,2014,Fuquan Edwin
+63,64,38.0,6-5,205.0,SG,Duke,Sr.,2014,Andre Dawkins
+64,65,37.0,6-9,210.0,SF,Reggio Emilia,1993,2014,Ojars Silins
+65,66,36.0,6-4,220.0,SG,Cincinnati,Sr.,2014,Sean Kilpatrick
+66,67,35.0,5-11,180.0,PG,Arizona St.,So.,2014,Jahii Carson
+67,68,34.0,6-3,183.0,PG,New Mexico,Sr.,2014,Kendall Williams
+68,69,33.0,6-6,192.0,SG,Iowa,Sr.,2014,Roy Devyn
+69,70,32.0,6-1,180.0,PG/SG,Michigan St.,Sr.,2014,Keith Appling
+70,71,31.0,6-3,187.0,PG/SG,San Diego St.,Sr.,2014,Xavier Thames
+71,72,30.0,6-10,250.0,PF/C,Flamengo,1992,2014,Cristiano Felicio
+72,73,29.0,7-2,248.0,C,Arizona St.,Sr.,2014,Jordan Bachynski
+73,74,28.0,6-5,200.0,SG,Florida,Sr.,2014,Casey Prather
+74,75,27.0,6-7,197.0,SG/SF,Strasbourg,1992,2014,Axel Toupane
+75,76,26.0,7-2,280.0,C,Cajasol Sevilla,1992,2014,Ondrej Balvin
+76,77,25.0,6-8,240.0,SF,Ohio St.,Jr.,2014,La Ross
+77,78,24.0,6-2,190.0,PG,California,Sr.,2014,Justin Cobbs
+78,79,23.0,6-1,160.0,PG/SG,Louisville,Sr.,2014,Russ Smith
+79,80,22.0,6-10,225.0,PF/C,Oregon St.,Jr.,2014,Eric Moreland
+80,81,21.0,6-9,230.0,PF,Virginia,Sr.,2014,Akil Mitchell
+81,82,20.0,6-5,180.0,SG,Tennessee,Sr.,2014,Jordan Rae
+82,83,19.0,6-3,203.0,SG,Memphis,Sr.,2014,Geron Johnson
+83,84,18.0,6-5,225.0,SG/SF,Pittsburgh,Sr.,2014,Lamar Patterson
+84,85,17.0,6-6,220.0,SF/PF,Iowa St.,Sr.,2014,Melvin Ejim
+85,86,16.0,6-8,245.0,PF,Towson,Sr.,2014,Jerrelle Benimon
+86,87,15.0,6-9,202.0,PF,UNLV,Jr.,2014,Roscoe Smith
+87,88,14.0,6-9,235.0,PF,Pepperdine,Sr.,2014,Brendan Lane
+88,89,13.0,6-11,225.0,PF/C,California,Sr.,2014,Richard Solomon
+89,90,12.0,6-3,170.0,PG,Florida,Sr.,2014,Scottie Wilbekin
+90,91,11.0,6-6,210.0,SF,Oklahoma,Sr.,2014,Cameron Clark
+91,92,10.0,6-8,230.0,PF,Pittsburgh,Sr.,2014,Talib Zanna
+92,93,9.0,6-7,225.0,SF,Dayton,Sr.,2014,Devin Oliver
+93,94,8.0,7-5,360.0,C,New Mexico St.,So.,2014,Sim Bhullar
+94,95,7.0,6-0,170.0,PG,Memphis,Sr.,2014,Joe Jackson
+95,96,6.0,6-3,195.0,PG/SG,Oregon St.,Sr.,2014,Roberto Nelson
+96,97,5.0,6-2,192.0,PG,Ohio St.,Sr.,2014,Aaron Craft
+97,98,4.0,6-0,165.0,PG,Providence,Sr.,2014,Bryce Cotton
+98,99,3.0,6-10,252.0,C,New Mexico,Jr.,2014,Alex Kirk
+99,100,2.0,6-7,220.0,SF,Marquette,Sr.,2014,Jamil Wilson
+0,1,1.0,7-0,250.0,C,Kentucky,Fr.,2015,Karl Towns
+1,2,1.0,6-5,200.0,PG,Guangdong,1996,2015,Emmanuel Mudiay
+2,3,1.0,6-4,195.0,PG/SG,Ohio St.,Fr.,2015,Angelo Russell
+3,4,1.0,6-11,270.0,C,Duke,Fr.,2015,Jahlil Okafor
+4,5,1.0,6-8,215.0,SG/SF,FC Barcelona,1995,2015,Mario Hezonja
+5,6,1.0,6-6,222.0,SG/SF,Duke,Fr.,2015,Justise Winslow
+6,7,1.0,7-1,230.0,PF,Cajasol Sevilla,1995,2015,Kristaps Porzingis
+7,8,1.0,6-6,242.0,SF,Arizona,Fr.,2015,Stanley Johnson
+8,9,1.0,6-10,240.0,PF,Kentucky,Fr.,2015,Trey Lyles
+9,10,1.0,6-2,185.0,PG,Murray St.,So.,2015,Cameron Payne
+10,11,1.0,6-11,240.0,C,Texas,Fr.,2015,Myles Turner
+11,12,2.0,6-6,205.0,SG,Kentucky,Fr.,2015,Devin Booker
+12,13,,6-9,220.0,SF,Wisconsin,Jr.,2015,Sam Dekker
+13,14,1.0,7-0,242.0,C,Kentucky,Jr.,2015,Willie Stein
+14,15,1.0,6-11,245.0,PF,Arkansas,So.,2015,Bobby Portis
+15,16,1.0,6-7,205.0,SF,Kansas,Fr.,2015,Kelly Oubre
+16,17,3.0,6-2,190.0,PG,Louisville,So.,2015,Terry Rozier
+17,18,,6-8,255.0,PF,Louisville,Jr.,2015,Montrezl Harrell
+18,19,,6-5,200.0,SG,UNLV,Fr.,2015,Rashad Vaughn
+19,20,2.0,6-4,200.0,PG,Notre Dame,Sr.,2015,Jerian Grant
+20,21,2.0,6-6,230.0,SG/SF,Virginia,Jr.,2015,Justin Anderson
+21,22,2.0,7-1,230.0,C,Wisconsin,Sr.,2015,Frank Kaminsky
+22,23,-2.0,6-5,180.0,PG/SG,Utah,Sr.,2015,Delon Wright
+23,24,1.0,6-9,222.0,PF,UCLA,Fr.,2015,Kevon Looney
+24,25,2.0,6-9,200.0,PF,Syracuse,Fr.,2015,Chris Cullough
+25,26,,6-7,210.0,SF,Arizona,So.,2015,Rondae Jefferson
+26,27,1.0,6-4,215.0,SG,UCLA,Sr.,2015,Norman Powell
+27,28,2.0,6-1,185.0,PG,Duke,Fr.,2015,Tyus Jones
+28,29,2.0,6-8,240.0,PF,LSU,So.,2015,Jordan Mickey
+29,30,6.0,6-9,245.0,PF/C,Syracuse,Sr.,2015,Rakeem Christmas
+30,31,-2.0,6-11,250.0,PF/C,Cajasol Sevilla,1994,2015,Guillermo Hernangomez
+31,32,,6-9,245.0,PF,Bowling Green,Sr.,2015,Richaun Holmes
+32,33,,6-6,185.0,SG,Georgia St.,Jr.,2015,Hunter Hunter
+33,34,,6-4,185.0,PG/SG,Boston College,Jr.,2015,Olivier Hanlan
+34,35,,6-9,240.0,PF,LSU,So.,2015,Jarell Martin
+35,36,1.0,6-8,215.0,SF,Anadolu Efes,1995,2015,Cedi Osman
+36,37,1.0,6-8,240.0,PF/C,Kansas,Fr.,2015,Cliff Alexander
+37,38,1.0,6-10,215.0,PF,UNLV,So.,2015,Christian Wood
+38,39,1.0,6-6,210.0,SF,Nebraska,Jr.,2015,Terran Petteway
+39,40,1.0,6-9,245.0,PF,Texas,Sr.,2015,Jonathan Holmes
+40,41,1.0,7-0,260.0,C,Kentucky,So.,2015,Dakari Johnson
+41,42,1.0,6-7,195.0,SG/SF,JUCO,So.,2015,Luis Montero
+42,43,1.0,7-0,225.0,PF/C,KK Partizan,1994,2015,Nikola Milutinov
+43,44,1.0,6-2,185.0,PG/SG,Oregon,Sr.,2015,Joseph Young
+44,45,1.0,6-7,210.0,SG/SF,Stanford,Sr.,2015,Anthony Brown
+45,46,1.0,6-1,170.0,PG,Michigan St.,Sr.,2015,Travis Trice
+46,47,1.0,6-6,195.0,SG/SF,North Carolina,Jr.,2015,Tokoto Tokoto
+47,48,1.0,6-8,230.0,PF,Arizona,Jr.,2015,Brandon Ashley
+48,49,1.0,6-6,200.0,SG,Tennessee,Sr.,2015,Josh Richardson
+49,50,1.0,6-11,250.0,C,Nanterre,1994,2015,Mouhammadou Jaiteh
+50,51,1.0,6-6,215.0,PG/SG,Kentucky,So.,2015,Andrew Harrison
+51,52,1.0,6-8,210.0,SF/PF,UTEP,So.,2015,Vince Hunter
+52,53,1.0,6-5,215.0,SG,Notre Dame,Sr.,2015,Pat Connaughton
+53,54,1.0,6-7,230.0,SF/PF,Michigan St.,Sr.,2015,Branden Dawson
+54,55,1.0,6-9,220.0,SF/PF,Iowa,Sr.,2015,Aaron White
+55,56,1.0,6-10,255.0,C,Zalgiris Kaunas,1993,2015,Arturas Gudaitis
+56,57,1.0,6-5,200.0,SG,Florida,Jr.,2015,Michael Frazier
+57,58,1.0,6-2,180.0,PG/SG,Stanford,Sr.,2015,Chasson Randle
+58,59,1.0,6-9,230.0,PF,Wyoming,Sr.,2015,Larry Nance
+59,60,1.0,7-0,260.0,C,Washington,So.,2015,Robert Upshaw
+60,61,1.0,6-6,205.0,SG,Iowa St.,Sr.,2015,Bryce Jones
+61,62,1.0,5-11,170.0,PG,UConn,Sr.,2015,Ryan Boatright
+62,63,1.0,6-0,190.0,PG,West Virginia,Sr.,2015,Juwan Staten
+63,64,1.0,6-6,220.0,SG,VCU,Sr.,2015,Treveon Graham
+64,65,1.0,6-8,200.0,SF/PF,Crvena Zvezda,1993,2015,Luka Mitrovic
+65,66,1.0,6-2,185.0,PG,Gonzaga,Sr.,2015,Kevin Pangos
+66,67,1.0,6-7,215.0,PF,Murray St.,Sr.,2015,Jarvis Williams
+67,68,1.0,6-8,232.0,SF/PF,Oklahoma State,Sr.,2015,Le Nash
+68,69,1.0,6-5,205.0,SF,Arkansas,Jr.,2015,Michael Qualls
+69,70,1.0,6-6,210.0,SG,Kentucky,So.,2015,Aaron Harrison
+70,71,1.0,6-8,240.0,PF,Oklahoma,Sr.,2015,Tashawn Thomas
+71,72,1.0,6-4,180.0,SG,Eastern Washington,Jr.,2015,Tyler Harvey
+72,73,1.0,6-2,190.0,PG,Arizona,Sr.,2015,Mc Connell
+73,74,1.0,6-8,220.0,SF/PF,Gipuzkoa Basket,1993,2015,Daniel Diez
+74,75,1.0,6-4,210.0,SG,Maryland,Sr.,2015,Dez Wells
+75,76,1.0,6-10,210.0,PF,Florida,So.,2015,Chris Walker
+76,77,1.0,6-0,170.0,PG,Wisconsin Green Bay,Sr.,2015,Keifer Sykes
+77,78,1.0,6-1,180.0,PG,Temple,Sr.,2015,Will Cummings
+78,79,1.0,6-6,190.0,SF,St. Johns,Sr.,2015,Sir Pointer
+79,80,1.0,6-1,180.0,PG,Duke,Sr.,2015,Quinn Cook
+80,81,1.0,6-8,260.0,PF/C,UC Santa Barbara,Sr.,2015,Alan Williams
+81,82,1.0,6-3,215.0,SG,St. Johns,Sr.,2015,Angelo Harrison
+82,83,1.0,6-8,200.0,SF,KK Partizan,1994,2015,Adin Vrabac
+83,84,1.0,6-2,190.0,SG,UC Davis,Sr.,2015,Corey Hawkins
+84,85,1.0,6-9,250.0,PF,Souffel,1993,2015,Kevin Dinal
+85,86,1.0,6-6,190.0,SG/SF,Maccabi Rishon Lezion,1993,2015,Shawn Dawson
+86,87,1.0,6-7,220.0,SG,Villanova,Sr.,2015,Darrun Hilliard
+87,88,1.0,6-9,240.0,C,Massachusetts,Sr.,2015,Cady Lalanne
+88,89,1.0,6-4,215.0,SG,Penn State,Sr.,2015,Newbill Newbill
+89,90,1.0,6-6,210.0,SG,NC State,Sr.,2015,Ralston Turner
+90,91,1.0,6-3,180.0,PG/SG,William & Mary,Sr.,2015,Marcus Thornton
+91,92,1.0,6-3,210.0,PG/SG,NC State,Jr.,2015,Trevor Lacey
+92,93,1.0,6-7,190.0,SG,FC Barcelona,1993,2015,Marcus Eriksson
+93,94,1.0,6-2,170.0,PG,Colorado,Sr.,2015,Askia Booker
+94,95,1.0,6-3,210.0,PG/SG,Boise State,Sr.,2015,Derrick Marks
+95,96,1.0,6-10,240.0,PF,California,Sr.,2015,David Kravish
+96,97,1.0,6-7,200.0,SG/SF,Bahia Basket,1996,2015,Juan Vaulet
+97,98,1.0,6-5,215.0,SF,Providence,Sr.,2015,La Henton
+98,99,1.0,6-8,240.0,PF,Virginia,Sr.,2015,Darion Atkins
+99,100,1.0,6-5,200.0,PG/SG,Cajasol Sevilla,1994,2015,Nikola Radicevic
+0,1,1.0,6-10,240.0,SF/PF,LSU,Fr.,2016,Ben Simmons
+1,2,1.0,6-9,195.0,SF,Duke,Fr.,2016,Brandon Ingram
+2,3,1.0,6-6,225.0,SG/SF,California,Fr.,2016,Jaylen Brown
+3,4,1.0,6-4,220.0,PG,Providence,Jr.,2016,Kris Dunn
+4,5,1.0,6-5,215.0,SG,Oklahoma,Sr.,2016,Buddy Hield
+5,6,1.0,7-0,220.0,PF,Maccabi Tel Aviv,1997,2016,Dragan Bender
+6,7,1.0,6-10,235.0,PF,Washington,Fr.,2016,Marquese Chriss
+7,8,2.0,6-10,240.0,PF/C,Gonzaga,So.,2016,Domantas Sabonis
+8,9,2.0,6-7,175.0,SG,Anadolu Efes,1997,2016,Furkan Korkmaz
+9,10,-1.0,6-4,205.0,PG/SG,Kentucky,Fr.,2016,Jamal Murray
+10,11,1.0,6-5,170.0,PG/SG,Washington,Fr.,2016,Dejounte Murray
+11,12,10.0,6-5,190.0,SG,Florida St.,Fr.,2016,Malik Beasley
+12,13,,6-10,240.0,PF/C,Michigan St.,Fr.,2016,Deyonta Davis
+13,14,3.0,7-0,215.0,PF/C,Kentucky,Fr.,2016,Skal Labissiere
+14,15,-1.0,6-11,245.0,C,Vanderbilt,Jr.,2016,Damian Jones
+15,16,-1.0,6-10,210.0,PF,North Carolina,Sr.,2016,Brice Johnson
+16,17,-1.0,7-1,240.0,C,Utah,So.,2016,Jakob Poeltl
+17,18,1.0,6-11,245.0,PF/C,Marquette,Fr.,2016,Henry Ellenson
+18,19,1.0,6-6,200.0,SG,Syracuse,Fr.,2016,Malachi Richardson
+19,20,1.0,6-5,210.0,SG/SF,Michigan St.,Sr.,2016,Denzel Valentine
+20,21,4.0,7-0,265.0,C,Mega Leks,1997,2016,Ivica Zubac
+21,22,-4.0,6-7,190.0,SG,Michigan,Sr.,2016,Caris Vert
+22,23,,6-6,180.0,SG,UNLV,So.,2016,Patrick Caw
+23,24,4.0,6-8,260.0,PF,SPO Rouen,1995,2016,Guerschon Yabusele
+24,25,-1.0,6-9,220.0,PF/C,Kansas,Fr.,2016,Cheick Diallo
+25,26,,7-1,215.0,PF/C,Australia,HSSr.,2016,Thon Maker
+26,27,6.0,6-8,220.0,SF,Baylor,Sr.,2016,Taurean Prince
+27,28,1.0,6-9,225.0,PF,Asefa Estudiantes,1995,2016,Juan Hernangomez
+28,29,-2.0,6-11,235.0,PF/C,UNLV,Fr.,2016,Stephen Zimmerman
+29,30,1.0,6-5,205.0,SG/SF,St. Joseph's,Jr.,2016,De Bembry
+30,31,3.0,6-11,250.0,C,Cibona Zagreb,1997,2016,Ante Zizic
+31,32,-2.0,6-7,195.0,SG/SF,Mega Leks,1995,2016,Timothe Luwawu
+32,33,-1.0,6-4,200.0,PG/SG,Vanderbilt,So.,2016,Wade Baldwin
+33,34,5.0,6-5,225.0,SG,Virginia,Sr.,2016,Malcolm Brogdon
+34,35,1.0,6-3,185.0,PG/SG,Oregon St.,Sr.,2016,Gary Payton
+35,36,-1.0,6-9,230.0,PF,New Mexico St.,So.,2016,Pascal Siakam
+36,37,,6-10,255.0,C,Maryland,Fr.,2016,Diamond Stone
+37,38,,6-1,195.0,PG,Notre Dame,Jr.,2016,Demetrius Jackson
+38,39,1.0,6-3,175.0,PG,NC State,Jr.,2016,Anthony Barber
+39,40,1.0,6-9,225.0,PF,Weber St.,Sr.,2016,Joel Bolomboy
+40,41,1.0,6-7,205.0,SG/SF,Syracuse,Sr.,2016,Michael Gbinije
+41,42,1.0,5-9,175.0,PG,Oakland,Jr.,2016,Kahlil Felder
+42,43,5.0,6-4,210.0,PG/SG,Seton Hall,So.,2016,Isaiah Whitehead
+43,44,10.0,6-7,200.0,SG/SF,UConn,So.,2016,Daniel Hamilton
+44,45,-1.0,5-10,150.0,PG,Kentucky,So.,2016,Tyler Ulis
+45,46,-1.0,6-4,190.0,PG/SG,Oklahoma,Sr.,2016,Isaiah Cousins
+46,47,-1.0,6-8,230.0,PF,Providence,So.,2016,Ben Bentil
+47,48,-1.0,6-5,230.0,SG,Kansas,Jr.,2016,Wayne Selden
+48,49,3.0,7-2,275.0,C,Panathinaikos,1997,2016,Georgios Papagiannis
+49,50,-1.0,7-2,215.0,PF/C,Xinjiang,1996,2016,Zhou Qi
+50,51,-1.0,7-0,260.0,C,Purdue,Sr.,2016,Hammons Hammons
+51,52,-1.0,6-8,220.0,PF,Kansas,Sr.,2016,Perry Ellis
+52,53,,6-10,240.0,PF,Notre Dame,Sr.,2016,Zach Auguste
+53,54,1.0,6-7,215.0,SG/SF,Texas A&M,Sr.,2016,Danuel House
+54,55,1.0,6-7,215.0,SF,Indiana,Jr.,2016,Troy Williams
+55,56,1.0,6-4,215.0,SG,Wichita State,Sr.,2016,Ron Baker
+56,57,1.0,6-9,200.0,SF/PF,Boise State,Jr.,2016,James Webb
+57,58,1.0,6-5,180.0,SG,Denain,1996,2016,Isaia Cordinier
+58,59,1.0,6-5,205.0,PG/SG,California,Sr.,2016,Tyrone Wallace
+59,60,1.0,6-4,180.0,PG/SG,USC,Jr.,2016,Julian Jacobs
+60,61,1.0,6-11,210.0,PF/C,Le Mans,1995,2016,Petr Cornelie
+61,62,1.0,6-9,200.0,SG/SF,Mega Vizura,1995,2016,Rade Zagorac
+62,63,1.0,6-7,190.0,SF,UNLV,Fr.,2016,Derrick Jones
+63,64,1.0,6-8,220.0,SF/PF,St. Joseph's,Sr.,2016,Isaiah Miles
+64,65,1.0,6-8,215.0,SF/PF,Florida,Sr.,2016,Dorian Smith
+65,66,1.0,6-9,240.0,C,UNLV,Sr.,2016,Chris Obekpa
+66,67,1.0,6-11,220.0,C,,1997,2016,Gracin Bakumanya
+67,68,1.0,6-2,165.0,PG,North Carolina,Sr.,2016,Marcus Paige
+68,69,1.0,6-10,245.0,PF,Gonzaga,Sr.,2016,Kyle Wiltjer
+69,70,1.0,6-2,180.0,PG,Texas,Jr.,2016,Isaiah Taylor
+70,71,1.0,6-8,250.0,PF,Maryland,Jr.,2016,Robert Carter
+71,72,1.0,6-6,200.0,SG,Miami,Sr.,2016,Sheldon Clellan
+72,73,1.0,6-8,240.0,PF,Kentucky,Sr.,2016,Alex Poythress
+73,74,1.0,6-9,210.0,SF,Maryland,Sr.,2016,Jake Layman
+74,75,1.0,6-10,215.0,PF,Iowa,Sr.,2016,Jarrod Uthoff
+75,76,1.0,6-6,210.0,SG,Louisville,Sr.,2016,Damion Lee
+76,77,1.0,6-2,190.0,PG,Wyoming,Sr.,2016,Josh Adams
+77,78,1.0,6-8,230.0,SF/PF,Iowa St.,Sr.,2016,Georges Niang
+78,79,1.0,6-8,210.0,SF,Bayern Munich,1994,2016,Paul Zipser
+79,80,1.0,6-0,180.0,PG,Indiana,Sr.,2016,Yogi Ferrell
+80,81,1.0,7-0,245.0,C,Arizona,Sr.,2016,Kaleb Tarczewski
+81,82,1.0,6-4,180.0,PG,Chalon,1994,2016,David Michineau
+82,83,1.0,6-6,190.0,SG,LSU,Jr.,2016,Tim Quarterman
+83,84,1.0,6-9,220.0,SF,Stanford,Jr.,2016,Rosco Allen
+84,85,1.0,6-3,180.0,PG/SG,Iona,Sr.,2016,English English
+85,86,1.0,6-6,185.0,SG,Gran Canaria,1994,2016,Oriol Pauli
+86,87,1.0,6-9,250.0,PF,Wake Forest,Sr.,2016,Devin Thomas
+87,88,1.0,6-9,235.0,PF,Arizona,Sr.,2016,Ryan Anderson
+88,89,1.0,6-10,245.0,C,Louisville,So.,2016,Chinanu Onuaku
+89,90,1.0,6-8,230.0,PF,Virginia,Sr.,2016,Anthony Gill
+90,91,1.0,6-10,250.0,PF,Louisiana Lafayette,Sr.,2016,Shawn Long
+91,92,1.0,6-7,225.0,SF,Texas A&M,Sr.,2016,Jalen Jones
+92,93,1.0,6-9,220.0,PF,Auburn,Sr.,2016,Tyler Harris
+93,94,1.0,6-2,205.0,SG,Washington,Sr.,2016,Andrew Andrews
+94,95,1.0,6-11,260.0,C,Texas,Sr.,2016,Prince Ibeh
+95,96,1.0,6-11,235.0,PF,Hawaii,Jr.,2016,Stefan Jankovic
+96,97,1.0,6-7,215.0,SG/SF,Kansas,Jr.,2016,Brannen Greene
+97,98,1.0,6-3,215.0,PG/SG,Georgetown,Sr.,2016,Vauntes Rivera
+98,99,1.0,6-10,225.0,C,UNLV,So.,2016,Goodluck Okonoboh
+99,100,1.0,6-9,215.0,SF/PF,JUCO,So.,2016,Emmanuel Malou
+0,1,1.0,6-8,205.0,SG/SF,Kansas,Fr.,2017,Josh Jackson
+1,2,1.0,6-4,190.0,PG,Washington,Fr.,2017,Markelle Fultz
+2,3,1.0,6-6,190.0,PG,UCLA,Fr.,2017,Lonzo Ball
+3,4,1.0,6-3,170.0,PG,Kentucky,Fr.,2017,De Fox
+4,5,1.0,6-10,210.0,SF/PF,Florida St.,Fr.,2017,Jonathan Isaac
+5,6,1.0,6-2,195.0,PG,NC State,Fr.,2017,Dennis Smith
+6,7,1.0,6-8,205.0,SF,Duke,Fr.,2017,Jayson Tatum
+7,8,1.0,6-5,190.0,PG,Strasbourg,1998,2017,Frank Ntilikina
+8,9,1.0,6-3,200.0,SG,Kentucky,Fr.,2017,Malik Monk
+9,10,1.0,6-11,230.0,C,Gonzaga,Fr.,2017,Zach Collins
+10,11,1.0,7-0,230.0,PF,Arizona,Fr.,2017,Lauri Markkanen
+11,12,1.0,6-6,195.0,SG,Duke,So.,2017,Luke Kennard
+12,13,1.0,6-2,210.0,SG,Louisville,So.,2017,Donovan Mitchell
+13,14,1.0,6-10,245.0,PF/C,Kentucky,Fr.,2017,Bam Adebayo
+14,15,1.0,6-10,225.0,PF,UCLA,Fr.,2017,Leaf Leaf
+15,16,1.0,6-9,225.0,PF,Utah,Jr.,2017,Kyle Kuzma
+16,17,1.0,6-10,235.0,C,Texas,Fr.,2017,Jarrett Allen
+17,18,1.0,6-10,220.0,PF/C,California,So.,2017,Ivan Rabb
+18,19,1.0,6-9,225.0,PF/C,Wake Forest,So.,2017,John Collins
+19,20,1.0,6-8,200.0,SF,North Carolina,Jr.,2017,Justin Jackson
+20,21,1.0,6-10,230.0,PF/C,Duke,Fr.,2017,Harry Giles
+21,22,1.0,6-11,230.0,C,Creighton,Fr.,2017,Justin Patton
+22,23,1.0,6-7,185.0,SG,Adelaide 36ers,1998,2017,Terrance Ferguson
+23,24,1.0,6-8,240.0,PF,Nevada,So.,2017,Cam Oliver
+24,25,1.0,6-7,195.0,SG/SF,Kansas State,Sr.,2017,Wesley Iwundu
+25,26,1.0,6-0,185.0,PG,Oklahoma State,So.,2017,Jawun Evans
+26,27,1.0,6-8,225.0,PF/C,Oregon,Jr.,2017,Jordan Bell
+27,28,1.0,6-10,235.0,PF,Michigan,Jr.,2017,Wilson Wilson
+28,29,2.0,6-9,250.0,PF/C,Purdue,So.,2017,Caleb Swanigan
+29,30,,7-0,250.0,PF,Zalgiris Kaunas,1998,2017,Isaiah Hartenstein
+30,31,3.0,6-4,190.0,PG/SG,Colorado,Sr.,2017,Derrick White
+31,32,,6-3,200.0,PG/SG,Duke,Fr.,2017,Frank Jackson
+32,33,,6-9,215.0,PF,Syracuse,So.,2017,Tyler Lydon
+33,34,1.0,6-5,210.0,SG,Villanova,Sr.,2017,Josh Hart
+34,35,2.0,6-7,235.0,SF/PF,Indiana,So.,2017,Anunoby Anunoby
+35,36,2.0,6-10,250.0,C,North Carolina,Fr.,2017,Tony Bradley
+36,37,-1.0,6-6,200.0,PG/SG,South Carolina,So.,2017,Dozier Dozier
+37,38,1.0,6-5,210.0,SG,South Carolina,Sr.,2017,Sindarius Thornwell
+38,39,18.0,6-0,190.0,PG,Kansas,Sr.,2017,Frank Mason
+39,40,2.0,6-6,240.0,SF/PF,SMU,Jr.,2017,Semi Ojeleye
+40,41,2.0,6-4,185.0,SG,Oregon,So.,2017,Tyler Dorsey
+41,42,2.0,7-1,220.0,C,Gran Canaria,1995,2017,Anzejs Pasecniks
+42,43,2.0,6-9,235.0,PF,Nanterre 92,1995,2017,Mathias Lessort
+43,44,2.0,6-10,235.0,PF,FMP Belgrade,1996,2017,Jonah Bolden
+44,45,2.0,6-10,250.0,C,UCLA,Fr.,2017,Ike Anigbogu
+45,46,10.0,6-8,235.0,PF,Valparaiso,Sr.,2017,Alec Peters
+46,47,2.0,6-7,220.0,SF,Clemson,Sr.,2017,Jaron Blossomgame
+47,48,-7.0,6-9,240.0,PF,Baylor,Jr.,2017,Johnathan Motley
+48,49,1.0,6-6,190.0,SG/SF,Paulistano,1996,2017,Wesley Da
+49,50,-10.0,6-6,220.0,SG/SF,Florida St.,So.,2017,Dwayne Bacon
+50,51,2.0,6-6,205.0,SG/SF,Houston,Sr.,2017,Damyean Dotson
+51,52,23.0,6-5,225.0,SG/SF,SMU,Sr.,2017,Sterling Brown
+52,53,29.0,6-2,190.0,SG,Arizona,Sr.,2017,Kadeem Allen
+53,54,-6.0,6-5,175.0,PG/SG,Xavier,So.,2017,Edmond Sumner
+54,55,-4.0,6-6,220.0,SF,Oregon,Jr.,2017,Dillon Brooks
+55,56,-4.0,6-9,210.0,SF/PF,Mega Leks,1997,2017,Vlatko Cancar
+56,57,-3.0,7-5,215.0,C,Spirou Charleroi (Belgium),1995,2017,Michael Fusek
+57,58,-3.0,6-4,215.0,SG,Georgetown,Jr.,2017,Peak Peak
+58,59,-1.0,6-7,195.0,SF,Notre Dame,Sr.,2017,Beachem Beachem
+59,60,-1.0,6-2,175.0,PG,Iowa St.,Sr.,2017,Monte Morris
+60,61,-1.0,6-5,190.0,SG,Dayton,Sr.,2017,Charles Cooke
+61,62,-1.0,6-4,170.0,PG/SG,Arizona,Fr.,2017,Kobi Simmons
+62,63,-1.0,6-4,195.0,SG,LSU,So.,2017,Antonio Blakeney
+63,64,-1.0,6-10,235.0,PF,Mega Leks,1996,2017,Alpha Kaba
+64,65,-1.0,6-8,190.0,SF/PF,Florida,Jr.,2017,Devin Robinson
+65,66,-1.0,6-3,190.0,PG,Gonzaga,Jr.,2017,Nigel Goss
+66,67,-1.0,6-8,235.0,PF,North Carolina,Sr.,2017,Isaiah Hicks
+67,68,-1.0,6-11,250.0,C,Indiana,So.,2017,Thomas Bryant
+68,69,-1.0,6-9,225.0,SF/PF,FC Barcelona,1995,2017,Aleksandar Vezenkov
+69,70,-1.0,6-2,195.0,PG,Maryland,Jr.,2017,Melo Trimble
+70,71,-1.0,6-11,215.0,PF/C,Arizona,So.,2017,Chance Comanche
+71,72,-1.0,6-6,205.0,SG/SF,Miami,Sr.,2017,Davon Reed
+72,73,-1.0,7-2,210.0,C,Le Mans,1997,2017,Jonathan Jeanne
+73,74,-1.0,6-9,185.0,PF/C,Oregon,Sr.,2017,Chris Boucher
+74,75,-1.0,6-9,230.0,PF,Louisville,Jr.,2017,Jaylen Johnson
+75,76,,6-10,230.0,C,Arkansas,Sr.,2017,Moses Kingsley
+76,77,,7-0,260.0,C,Kentucky,So.,2017,Isaac Humphries
+77,78,,6-3,190.0,PG,Wisconsin,Sr.,2017,Bronson Koenig
+78,79,,6-7,215.0,PF,Eastern Washington,Sr.,2017,Jacob Wiley
+79,80,,6-7,220.0,SF,Syracuse,Sr.,2017,Andrew White
+80,81,,6-4,195.0,PG,Mega Leks,1995,2017,Ognjen Jaramaz
+81,82,1.0,6-5,205.0,SG,Iowa,Sr.,2017,Peter Jok
+82,83,1.0,6-10,230.0,PF/C,BYU,So.,2017,Eric Mika
+83,84,1.0,7-1,250.0,C,Vanderbilt,Sr.,2017,Luke Kornet
+84,85,1.0,6-2,220.0,PG/SG,Kentucky,So.,2017,Isaiah Briscoe
+85,86,1.0,6-9,230.0,PF/C,Chattanooga,Sr.,2017,Justin Tuoyo
+86,87,1.0,6-8,215.0,SF,Utah State,Sr.,2017,Jalen Moore
+87,88,1.0,6-10,275.0,C,North Carolina,Sr.,2017,Kennedy Meeks
+88,89,1.0,6-0,190.0,PG,Michigan,Sr.,2017,Derrick Walton
+89,90,1.0,6-3,200.0,SG,Indiana,Jr.,2017,James Blackmon
+90,91,1.0,6-6,210.0,SG,Michigan,Sr.,2017,Zak Irvin
+91,92,1.0,6-6,200.0,SG,California,Sr.,2017,Jabari Bird
+92,93,1.0,6-7,215.0,SF,Pittsburgh,Sr.,2017,Jamel Artis
+93,94,1.0,6-7,255.0,PF,Wisconsin,Sr.,2017,Nigel Hayes
+94,95,1.0,6-10,240.0,C,Kansas,Sr.,2017,Landen Lucas
+95,96,1.0,6-3,210.0,PG/SG,Florida St.,Jr.,2017,Xavier Mayes
+96,97,1.0,6-9,235.0,PF,Virginia,Jr.,2017,Austin Nichols
+97,98,1.0,6-11,210.0,PF/C,Leuven,1995,2017,Ismael Bako
+98,99,1.0,6-8,225.0,PF,Syracuse,Sr.,2017,Tyler Roberson
+99,100,1.0,6-11,230.0,C,UConn,Sr.,2017,Amida Brimah
+0,1,1.0,7-0,260.0,C,Arizona,Fr.,2018,Deandre Ayton
+1,2,1.0,6-11,235.0,PF,Duke,Fr.,2018,Marvin Bagley
+2,3,1.0,6-8,225.0,SG/SF,Real Madrid,1999,2018,Luka Doncic
+3,4,1.0,6-11,235.0,PF/C,Michigan St.,Fr.,2018,Jaren Jackson
+4,5,2.0,6-2,180.0,PG,Oklahoma,Fr.,2018,Trae Young
+5,6,2.0,6-10,250.0,C,Duke,Fr.,2018,Wendell Carter
+6,7,-1.0,6-11,210.0,SF,Missouri,Fr.,2018,Michael Porter
+7,8,1.0,6-7,210.0,SG/SF,Villanova,Jr.,2018,Mikal Bridges
+8,9,1.0,7-0,225.0,C,Texas,Fr.,2018,Mohamed Bamba
+9,10,1.0,6-6,180.0,PG,Kentucky,Fr.,2018,Shai Alexander
+10,11,1.0,6-5,190.0,SG,Boston College,Jr.,2018,Jerome Robinson
+11,12,1.0,6-5,200.0,SG,Villanova,So.,2018,Donte Vincenzo
+12,13,1.0,6-4,200.0,SG,Texas Tech,Fr.,2018,Zhaire Smith
+13,14,2.0,6-2,185.0,PG,Alabama,Fr.,2018,Collin Sexton
+14,15,,6-9,215.0,SF/PF,Kentucky,Fr.,2018,Kevin Knox
+15,16,1.0,6-5,195.0,SG,Miami,Fr.,2018,Lonnie Walker
+16,17,1.0,6-7,195.0,SG,Maryland,So.,2018,Kevin Huerter
+17,18,1.0,6-6,220.0,SF/PF,Michigan St.,So.,2018,Miles Bridges
+18,19,2.0,6-9,240.0,PF/C,Texas A&M,So.,2018,Robert Williams
+19,20,2.0,6-7,210.0,SG,Oregon,Fr.,2018,Troy Brown
+20,21,3.0,6-4,200.0,SG,Creighton,Jr.,2018,Khyri Thomas
+21,22,4.0,6-5,205.0,SG,Duke,Fr.,2018,Gary Trent
+22,23,,6-4,200.0,SG,Duke,Sr.,2018,Grayson Allen
+23,24,1.0,6-7,195.0,SG/SF,Boise State,Sr.,2018,Chandler Hutchison
+24,25,-5.0,6-3,185.0,PG/SG,Undecided,HSSr.,2018,Anfernee Simons
+25,26,1.0,7-1,225.0,C,USA,Fr.,2018,Mitchell Robinson
+26,27,5.0,6-2,180.0,PG,Pau-Lacq-Orthez,1997,2018,Elie Okobo
+27,28,,6-1,185.0,PG,UCLA,Jr.,2018,Aaron Holiday
+28,29,,6-11,240.0,PF/C,Michigan,Jr.,2018,Moritz Wagner
+29,30,4.0,6-4,210.0,SG/SF,Georgia Tech,So.,2018,Josh Okogie
+30,31,-1.0,6-5,200.0,SG/SF,Cincinnati,Jr.,2018,Jacob Evans
+31,32,-1.0,6-5,190.0,PG/SG,Wichita State,So.,2018,Landry Shamet
+32,33,,6-2,200.0,PG,Villanova,Jr.,2018,Jalen Brunson
+33,34,1.0,6-3,195.0,PG/SG,USC,So.,2018,De Melton
+34,35,1.0,6-4,190.0,PG/SG,Dnipro Dnipropetrovsk,1999,2018,Issuf Sanon
+35,36,1.0,6-9,255.0,PF/C,Villanova,Fr.,2018,Omari Spellman
+36,37,1.0,6-8,225.0,SF/PF,Ohio St.,Jr.,2018,Keita Diop
+37,38,1.0,6-9,195.0,SF,Cedevita Zagreb,1999,2018,Dzanan Musa
+38,39,1.0,6-6,200.0,SG/SF,Tulane,Jr.,2018,Melvin Frazier
+39,40,1.0,6-4,220.0,SG,Arizona,So.,2018,Rawle Alkins
+40,41,1.0,6-9,215.0,SF,Kentucky,Fr.,2018,Jarred Vanderbilt
+41,42,1.0,6-3,190.0,PG,Duke,Fr.,2018,Trevon Duval
+42,43,1.0,7-1,250.0,C,UNLV,Fr.,2018,Brandon Coy
+43,44,1.0,6-9,200.0,SF,Fraport Frankfurt,1999,2018,Isaac Bonga
+44,45,1.0,6-8,215.0,PF,Missouri State,Sr.,2018,Alize Johnson
+45,46,1.0,6-10,220.0,PF/C,USC,Jr.,2018,Chimezie Metu
+46,47,1.0,6-10,215.0,PF,Louisville,Jr.,2018,Raymond Spalding
+47,48,1.0,6-8,210.0,SG,Kansas,Sr.,2018,Sviatoslav Mykhailiuk
+48,49,1.0,6-3,185.0,PG/SG,Texas Tech,Sr.,2018,Keenan Evans
+49,50,1.0,6-9,220.0,SF,FC Barcelona,1998,2018,Rodions Kurucs
+50,51,1.0,6-11,215.0,SF,Brose Bamberg,1998,2018,Arnoldas Kulboka
+51,52,1.0,6-5,195.0,SG,Miami,So.,2018,Bruce Brown
+52,53,1.0,6-6,205.0,PG/SG,SMU,Jr.,2018,Shake Milton
+53,54,1.0,6-5,195.0,SG,Kentucky,Fr.,2018,Hamidou Diallo
+54,55,1.0,6-8,215.0,SF/PF,Texas Arlington,Sr.,2018,Kevin Hervey
+55,56,1.0,6-1,195.0,PG,West Virginia,Sr.,2018,Jevon Carter
+56,57,1.0,6-4,200.0,PG,Penn State,So.,2018,Tony Carr
+57,58,1.0,6-7,230.0,SF/PF,Maryland,So.,2018,Justin Jackson
+58,59,1.0,6-10,225.0,PF,BC Igokea,1997,2018,Billy Preston
+59,60,1.0,6-7,200.0,SF,TCU,Sr.,2018,Kenrich Williams
+60,61,1.0,6-6,230.0,SF/PF,Butler,Sr.,2018,Kelan Martin
+61,62,1.0,6-4,190.0,SG,Kansas,So.,2018,Malik Newman
+62,63,1.0,6-1,185.0,PG,Kansas,Sr.,2018,Devonte Graham
+63,64,1.0,6-8,245.0,PF,Georgia,Sr.,2018,Yante Maten
+64,65,1.0,6-2,205.0,SG,Arkansas,Sr.,2018,Jaylen Barford
+65,66,1.0,6-1,185.0,PG/SG,Houston,Sr.,2018,Rob Gray
+66,67,1.0,6-5,200.0,SG,Arizona,Jr.,2018,Allonzo Trier
+67,68,1.0,6-8,220.0,SF/PF,Texas A&M,Jr.,2018,Hogg Hogg
+68,69,1.0,6-7,200.0,SF,Illinois-Chicago,Sr.,2018,Dikembe Dixson
+69,70,1.0,6-5,205.0,SG,Xavier,Sr.,2018,Macura Macura
+70,71,1.0,6-10,270.0,C,Texas A&M,Jr.,2018,Tyler Davis
+71,72,1.0,7-2,300.0,C,Purdue,Sr.,2018,Isaac Haas
+72,73,1.0,6-2,190.0,PG/SG,St. Bonaventure,Sr.,2018,Jaylen Adams
+73,74,1.0,6-7,220.0,PF,Cincinnati,Sr.,2018,Gary Clark
+74,75,1.0,6-8,225.0,SF,Purdue,Sr.,2018,Vince Edwards
+75,76,1.0,6-5,205.0,PG/SG,Virginia,Sr.,2018,Devon Hall
+76,77,1.0,6-6,220.0,SF,Colorado,Sr.,2018,George King
+77,78,1.0,6-5,225.0,SF/PF,Notre Dame,Sr.,2018,Bonzie Colson
+78,79,1.0,6-8,225.0,PF,Gonzaga,Sr.,2018,Johnathan Williams
+79,80,1.0,6-7,200.0,SF,Louisville,Jr.,2018,Deng Adel
+80,81,1.0,6-7,205.0,SG/SF,Nevada,Sr.,2018,Kendall Stephens
+81,82,1.0,6-0,195.0,PG,North Carolina,Sr.,2018,Joel Berry
+82,83,1.0,6-6,210.0,SG,North Carolina,Sr.,2018,Theo Pinson
+83,84,1.0,6-8,215.0,SF/PF,Clemson,Sr.,2018,Donte Grantham
+84,85,1.0,6-1,180.0,PG,Arizona St.,Sr.,2018,Tra Holder
+85,86,16.0,6-10,195.0,SF/PF,Dayton,Fr.,2018,Kostas Antetokounmpo
+86,87,,6-3,190.0,PG,Western Michigan,Sr.,2018,Thomas Wilder
+87,88,,7-0,225.0,C,Baylor,Sr.,2018,Jo Acuil
+88,89,,6-9,220.0,PF,San Diego St.,Sr.,2018,Malik Pope
+89,90,,6-9,220.0,PF,Marshall,Jr.,2018,Ajdin Penava
+90,91,,6-9,205.0,SF/PF,Kentucky,So.,2018,Wenyen Gabriel
+91,92,,6-3,215.0,SG,Rhode Island,Sr.,2018,Jared Terrell
+92,93,,6-2,215.0,PG/SG,Creighton,Sr.,2018,Marcus Foster
+93,94,,6-4,190.0,SG,Michigan,Sr.,2018,Muhammad Rahkman
+94,95,,6-5,215.0,SG,Xavier,Sr.,2018,Trevon Bluiett
+95,96,,6-9,240.0,PF,Cincinnati,Sr.,2018,Kyle Washington
+96,97,,6-0,175.0,PG,Florida,Sr.,2018,Chris Chiozza
+97,98,,7-0,215.0,C,Louisville,Sr.,2018,Anas Mahmoud
+98,99,,6-11,255.0,C,St. Mary's,Sr.,2018,Jock Landale
+99,100,,6-3,190.0,SG,Oakland,Sr.,2018,Kendrick Nunn
+0,1,1.0,6-6,280.0,PF,Duke,Fr.,2019,Zion Williamson
+1,2,1.0,6-3,175.0,PG,Murray St.,So.,2019,Ja Morant
+2,3,1.0,6-7,210.0,SG,Duke,Fr.,2019,Barrett Barrett
+3,4,1.0,6-5,190.0,PG/SG,North Carolina,Fr.,2019,Coby White
+4,5,1.0,6-8,235.0,PF,Gonzaga,Jr.,2019,Rui Hachimura
+5,6,1.0,6-7,225.0,SF/PF,Virginia,So.,2019,De Hunter
+6,7,1.0,6-2,175.0,PG,Vanderbilt,Fr.,2019,Darius Garland
+7,8,1.0,6-6,225.0,SF,North Carolina,Fr.,2019,Nassir Little
+8,9,1.0,6-6,215.0,SG/SF,Kentucky,Fr.,2019,Keldon Johnson
+9,10,1.0,6-10,240.0,C,Maryland,So.,2019,Bruno Fernando
+10,11,1.0,6-11,220.0,PF/C,Texas,Fr.,2019,Jaxson Hayes
+11,12,1.0,6-6,195.0,SG,Texas Tech,So.,2019,Jarrett Culver
+12,13,1.0,6-10,255.0,PF/C,Florida St.,So.,2019,Mfiondu Kabengele
+13,14,5.0,6-11,250.0,C,Mega Bemax,1999,2019,Goga Bitadze
+14,15,11.0,6-6,200.0,SG/SF,Washington,Sr.,2019,Matisse Thybulle
+15,16,-1.0,6-8,210.0,SG/SF,Duke,Fr.,2019,Cameron Reddish
+16,17,-1.0,6-9,230.0,SF/PF,Limoges CSP,2000,2019,Sekou Doumbouya
+17,18,-1.0,6-6,210.0,SG,Indiana,Fr.,2019,Romeo Langford
+18,19,-1.0,6-5,205.0,SG,Virginia Tech,So.,2019,Nickeil Walker
+19,20,3.0,6-8,230.0,PF,Kentucky,So.,2019,Washington Washington
+20,21,,6-11,215.0,PF,Georgia,So.,2019,Nicolas Claxton
+21,22,,7-2,210.0,C,Oregon,Fr.,2019,Bol Bol
+22,23,5.0,6-8,210.0,PF/C,Gonzaga,Jr.,2019,Brandon Clarke
+23,24,-4.0,6-8,210.0,SG/SF,Stanford,So.,2019,Okpala Okpala
+24,25,-1.0,6-8,235.0,SF/PF,Auburn,So.,2019,Chuma Okeke
+25,26,-1.0,6-6,195.0,SG,Kentucky,Fr.,2019,Tyler Herro
+26,27,,6-7,255.0,PF,Villanova,Sr.,2019,Eric Paschall
+27,28,1.0,6-7,195.0,SG/SF,Belmont,Sr.,2019,Dylan Windler
+28,29,1.0,6-11,230.0,PF,0,2000,2019,Luka Samanic
+29,30,1.0,6-8,205.0,SF,North Carolina,Sr.,2019,Cameron Johnson
+30,31,1.0,6-10,255.0,C,LSU,Fr.,2019,Naz Reid
+31,32,1.0,6-5,195.0,PG,Virginia,Jr.,2019,Ty Jerome
+32,33,1.0,6-8,195.0,SF,Oregon,Fr.,2019,Louis King
+33,34,1.0,6-10,240.0,PF/C,Arkansas,So.,2019,Daniel Gafford
+34,35,1.0,6-5,215.0,SG/SF,USC,Fr.,2019,Kevin Porter
+35,36,1.0,6-0,200.0,PG,Purdue,Jr.,2019,Carsen Edwards
+36,37,1.0,6-9,210.0,SF/PF,USA,,2019,Darius Bazley
+37,38,1.0,6-9,190.0,SF/PF,San Diego St.,So.,2019,Jalen Daniels
+38,39,1.0,6-2,180.0,PG,Boston College,Jr.,2019,Ky Bowman
+39,40,1.0,6-6,205.0,SG,Florida St.,Sr.,2019,Terance Mann
+40,41,1.0,6-10,215.0,PF/C,0,2000,2019,Alen Smailagic
+41,42,1.0,6-5,215.0,SF,,Sr.,2019,Da Jeffries
+42,43,1.0,6-3,180.0,PG,Tennessee,Jr.,2019,Jordan Bone
+43,44,1.0,6-2,190.0,PG/SG,Hofstra,Sr.,2019,Justin Foreman
+44,45,1.0,6-4,185.0,PG/SG,NC State,HSSr.,2019,Jalen Lecque
+45,46,1.0,6-7,240.0,PF,Tennessee,Jr.,2019,Grant Williams
+46,47,2.0,6-4,200.0,PG/SG,Washington,So.,2019,Jaylen Nowell
+47,48,2.0,6-6,195.0,PG/SG,0,2000,2019,Joshua Obiesie
+48,49,2.0,6-8,220.0,SF/PF,Arizona St.,Sr.,2019,Zylan Cheatham
+49,50,13.0,6-5,190.0,SG,SESI/Franca,1999,2019,Marcos Louzada
+50,51,1.0,6-4,190.0,PG/SG,Mississippi,Sr.,2019,Terence Davis
+51,52,-4.0,6-8,205.0,SF,Syracuse,So.,2019,Oshae Brissett
+52,53,1.0,6-11,210.0,PF/C,Missouri,So.,2019,Jontay Porter
+53,54,1.0,6-5,210.0,SG,0,1998,2019,Adam Mokoka
+54,55,1.0,6-8,215.0,SF/PF,Wake Forest,Fr.,2019,Jaylen Hoard
+55,56,1.0,6-9,230.0,PF/C,Oregon,So.,2019,Kenny Wooten
+56,57,-4.0,6-8,215.0,SF/PF,Nebraska,Jr.,2019,Isaiah Roby
+57,58,13.0,6-6,195.0,SG/SF,Iowa St.,Sr.,2019,Marial Shayok
+58,59,3.0,6-6,205.0,SG,Gonzaga,So.,2019,Zach Norvell
+59,60,,6-3,180.0,PG,UCLA,So.,2019,Jaylen Hands
+60,61,,7-6,290.0,C,Central Florida,Sr.,2019,Tacko Fall
+61,62,-3.0,6-2,170.0,PG/SG,Virginia,Jr.,2019,Kyle Guy
+62,63,-5.0,6-10,230.0,PF,Vanderbilt,Fr.,2019,Simi Shittu
+63,64,,6-7,200.0,SF,Sydney Kings,1998,2019,Brian Bowen
+64,65,,6-8,245.0,PF,Iowa,Jr.,2019,Tyler Cook
+65,66,,6-4,235.0,SG/SF,Iowa St.,Fr.,2019,Talen Tucker
+66,67,,6-4,220.0,SG,Arizona St.,Fr.,2019,Luguentz Dort
+67,68,,6-7,200.0,SG,0,1998,2019,Yovel Zoosman
+68,69,,6-7,200.0,SG,St. Joseph's,So.,2019,Charlie Brown
+69,70,,6-2,190.0,PG,Iowa St.,So.,2019,Lindell Wigginton
+70,71,1.0,6-5,205.0,SG,Yale,Jr.,2019,Miye Oni
+71,72,1.0,6-5,240.0,SF,Tennessee,Sr.,2019,Admiral Schofield
+72,73,1.0,6-6,205.0,SG,Syracuse,Jr.,2019,Tyus Battle
+73,74,1.0,6-6,205.0,SG/SF,Central Florida,Jr.,2019,Aubrey Dawkins
+74,75,1.0,6-6,210.0,SG,Nebraska,Sr.,2019,James Palmer
+75,76,1.0,6-7,220.0,SF,Michigan,Fr.,2019,Ignas Brazdeikis
+76,77,1.0,6-1,180.0,PG,St. Johns,Jr.,2019,Shamorie Ponds
+77,78,1.0,6-8,195.0,SF,0,2000,2019,Deividas Sirvydis
+78,79,1.0,6-3,195.0,PG/SG,Georgia St.,Jr.,2019,Marcus Simonds
+79,80,1.0,6-6,200.0,SG/SF,Nevada,Sr.,2019,Caleb Martin
+80,81,1.0,6-5,190.0,PG/SG,Michigan,So.,2019,Jordan Poole
+81,82,1.0,6-10,235.0,C,Miami,Jr.,2019,Dewan Hernandez
+82,83,1.0,6-11,250.0,C,Duke,Jr.,2019,Marques Bolden
+83,84,1.0,6-10,225.0,PF,Mississippi St.,Sr.,2019,Aric Holman
+84,85,1.0,6-2,180.0,SG,Cornell,Sr.,2019,Matt Morgan
+85,86,1.0,5-9,180.0,PG,Campbell,Sr.,2019,Chris Clemons
+86,87,1.0,6-8,230.0,SF/PF,Washington State,Sr.,2019,Robert Franks
+87,88,1.0,6-7,195.0,SG/SF,0,1997,2019,Vanja Marinkovic
+88,89,1.0,6-4,205.0,SG,Mississippi St.,Sr.,2019,Quinndary Weatherspoon
+89,90,1.0,6-6,195.0,SG,Michigan,Jr.,2019,Charles Matthews
+90,91,1.0,6-10,205.0,PF,0,1998,2019,Matur Maker
+91,92,1.0,7-4,265.0,C,Florida St.,Sr.,2019,Christ Koumadje
+92,93,1.0,6-9,230.0,C,Alabama,Sr.,2019,Donta Hall
+93,94,1.0,6-8,235.0,PF,Kansas,Jr.,2019,Dedric Lawson
+94,95,1.0,6-10,230.0,PF,USC,Sr.,2019,Bennie Boatwright
+95,96,1.0,6-3,195.0,SG,Buffalo,Sr.,2019,Massinburg Massinburg
+96,97,1.0,6-6,190.0,SG,Nevada,Sr.,2019,Cody Martin
+97,98,1.0,6-6,220.0,SF,SMU,Sr.,2019,Jarrey Foster
+98,99,1.0,6-3,195.0,PG/SG,Kansas State,Sr.,2019,Barry Brown
+99,100,1.0,6-7,255.0,PF,Charleston,Sr.,2019,Jarrell Brantley
+0,1,1.0,6-5,225.0,SG,Georgia,Fr.,2020,Anthony Edwards
+1,2,1.0,6-9,220.0,PF,Dayton,So.,2020,Obi Toppin
+2,3,1.0,6-9,235.0,PF/C,USC,Fr.,2020,Onyeka Okongwu
+3,4,1.0,6-7,215.0,SF/PF,Florida St.,Fr.,2020,Patrick Williams
+4,5,1.0,6-6,215.0,SG/SF,Auburn,Fr.,2020,Isaac Okoro
+5,6,1.0,6-6,180.0,PG,0,2001,2020,La Ball
+6,7,1.0,7-1,235.0,C,Memphis,Fr.,2020,James Wiseman
+7,8,1.0,6-9,210.0,SF,0,2001,2020,Deni Avdija
+8,9,1.0,6-5,195.0,PG,0,2001,2020,Killian Hayes
+9,10,2.0,6-5,185.0,PG,Iowa St.,So.,2020,Tyrese Haliburton
+10,11,,6-7,200.0,SG,Florida St.,So.,2020,Devin Vassell
+11,12,1.0,6-6,215.0,SG,Arizona,Fr.,2020,Josh Green
+12,13,1.0,6-3,170.0,PG,Stanford,Fr.,2020,Tyrell Terry
+13,14,2.0,6-3,185.0,PG,North Carolina,Fr.,2020,Cole Anthony
+14,15,3.0,6-9,235.0,SF/PF,Memphis,Fr.,2020,Precious Achiuwa
+15,16,8.0,6-3,170.0,PG,Alabama,So.,2020,Kira Lewis
+16,17,9.0,6-10,270.0,PF/C,Duke,Fr.,2020,Vernon Carey
+17,18,1.0,6-10,220.0,PF,Maryland,So.,2020,Jalen Smith
+18,19,2.0,6-8,215.0,SF,Villanova,So.,2020,Saddiq Bey
+19,20,-3.0,6-5,185.0,PG,0,2001,2020,Theo Maledon
+20,21,2.0,6-10,200.0,PF,Washington,Fr.,2020,Jaden Daniels
+21,22,-7.0,6-6,215.0,SG/SF,Vanderbilt,So.,2020,Aaron Nesmith
+22,23,-3.0,6-3,200.0,SG,Kentucky,Fr.,2020,Tyrese Maxey
+23,24,-2.0,6-3,190.0,PG,Arizona,Fr.,2020,Nico Mannion
+24,25,2.0,6-4,175.0,PG/SG,0,2001,2020,Hampton Hampton
+25,26,-1.0,6-7,215.0,PF,Colorado,Jr.,2020,Tyler Bey
+26,27,1.0,6-11,245.0,PF/C,Arizona,Fr.,2020,Zeke Nnaji
+27,28,1.0,6-10,240.0,C,Minnesota,So.,2020,Daniel Oturu
+28,29,14.0,6-4,170.0,SG,Arkansas,So.,2020,Isaiah Joe
+29,30,,6-6,230.0,SG,Syracuse,Jr.,2020,Elijah Hughes
+30,31,1.0,6-2,185.0,PG,Kansas,So.,2020,Devon Dotson
+31,32,4.0,7-0,190.0,C,0,2001,2020,Aleksej Pokusevski
+32,33,,6-6,180.0,PG/SG,0,2000,2020,Leandro Bolmaro
+33,34,-3.0,6-2,185.0,PG,San Diego St.,Jr.,2020,Malachi Flynn
+34,35,4.0,6-9,250.0,PF/C,Mississippi St.,So.,2020,Reggie Perry
+35,36,-2.0,6-6,220.0,SG,TCU,Sr.,2020,Desmond Bane
+36,37,-2.0,6-4,195.0,SG,Texas Tech,Fr.,2020,Jahmius Ramsey
+37,38,-1.0,6-2,195.0,PG,Oregon,Sr.,2020,Payton Pritchard
+38,39,-1.0,6-3,185.0,PG/SG,Kentucky,So.,2020,Immanuel Quickley
+39,40,,6-10,220.0,PF/C,DePaul,Jr.,2020,Paul Reed
+40,41,,6-6,200.0,SG,Duke,Fr.,2020,Cassius Stanley
+41,42,4.0,6-7,225.0,SF,Louisville,Jr.,2020,Jordan Nwora
+42,43,-1.0,6-8,245.0,PF/C,Washington,Fr.,2020,Isaiah Stewart
+43,44,5.0,6-2,185.0,PG,Duke,So.,2020,Tre Jones
+44,45,-1.0,6-6,195.0,SG,Canada,So.,2020,Karim Mane
+45,46,-1.0,6-7,220.0,SF/PF,0,2000,2020,Paul Eboua
+46,47,9.0,6-7,200.0,PG/SG,0,1998,2020,Abdoulaye Doye
+47,48,17.0,6-7,235.0,PG/SG,Xavier,Jr.,2020,Naji Marshall
+48,49,10.0,7-0,240.0,C,Kentucky,Jr.,2020,Nick Richards
+49,50,32.0,6-5,200.0,SG,,Jr.,2020,Mason Jones
+50,51,18.0,6-7,230.0,SF,Mississippi St.,So.,2020,Robert Woodard
+51,52,25.0,6-3,200.0,PG/SG,Creighton,So.,2020,Ty Alexander
+52,53,-6.0,5-11,170.0,PG,Marquette,Sr.,2020,Markus Howard
+53,54,-6.0,6-5,210.0,SG/SF,Houston,So.,2020,Nate Hinton
+54,55,23.0,7-0,215.0,PF/C,0,1999,2020,Marko Simonovic
+55,56,-5.0,6-3,180.0,PG,0,2000,2020,Yam Madar
+56,57,-7.0,6-11,260.0,C,Kansas,Sr.,2020,Udoka Azubuike
+57,58,-6.0,6-5,205.0,PG/SG,Florida St.,Sr.,2020,Trent Forrest
+58,59,-4.0,6-6,185.0,SG,JUCO,So.,2020,Jay Scrubb
+59,60,-3.0,6-7,200.0,SG/SF,Washington State,So.,2020,Elleby Elleby
+60,61,-7.0,6-1,180.0,PG/SG,Charleston,Sr.,2020,Grant Riller
+61,62,-4.0,6-3,195.0,PG,Kentucky,So.,2020,Ashton Hagans
+62,63,-3.0,6-10,260.0,C,Auburn,Sr.,2020,Austin Wiley
+63,64,-3.0,7-0,275.0,C,Georgetown,Jr.,2020,Omer Yurtseven
+64,65,-3.0,6-7,230.0,SF/PF,Penn State,Sr.,2020,Lamar Stevens
+65,66,-3.0,6-4,195.0,PG/SG,Nevada,Jr.,2020,Jalen Harris
+66,67,-14.0,6-4,205.0,PG/SG,LSU,Sr.,2020,Skylar Mays
+67,68,-4.0,6-7,225.0,PF,BYU,Sr.,2020,Yoeli Childs
+68,69,-3.0,6-10,220.0,PF,Virginia,Sr.,2020,Mamadi Diakite
+69,70,-3.0,6-9,265.0,PF/C,Michigan St.,So.,2020,Xavier Tillman
+70,71,-3.0,6-2,175.0,PG/SG,Vanderbilt,So.,2020,Saben Lee
+71,72,-2.0,6-8,235.0,PF,Xavier,Sr.,2020,Tyrique Jones
+72,73,-2.0,6-2,195.0,PG,Michigan St.,Sr.,2020,Cassius Winston
+73,74,-2.0,6-7,195.0,SF,NC State,HSSr.,2020,Joshua Hall
+74,75,-2.0,6-10,250.0,C,Louisville,Sr.,2020,Steven Enoch
+75,76,-2.0,6-8,230.0,SF,St. Mary's,Jr.,2020,Malik Fitts
+76,77,-2.0,6-10,220.0,PF,Gonzaga,Sr.,2020,Killian Tillie
+77,78,-2.0,6-5,220.0,SG,St. Johns,Sr.,2020,Mustapha Heron
+78,79,,6-1,195.0,PG,Butler,Sr.,2020,Kamar Baldwin
+79,80,,6-8,235.0,PF,Georgia,Jr.,2020,Rayshaun Hammonds
+80,81,,6-2,195.0,PG/SG,Mississippi,Jr.,2020,Breein Tyree
+81,82,1.0,6-6,185.0,SG,Mega Soccerbet,2001,2020,Malcolm Cazalon
+82,83,1.0,6-7,205.0,SF,Kentucky,Fr.,2020,Khalil Whitney
+83,84,1.0,6-8,200.0,SF,SMU,So.,2020,Isiaha Mike
+84,85,1.0,6-9,205.0,SF/PF,Igokea,2000,2020,Dalibor Ilic
+85,86,1.0,6-0,170.0,PG,Maryland,Sr.,2020,Anthony Cowan
+86,87,1.0,6-8,225.0,SF,Oregon St.,Sr.,2020,Tres Tinkle
+87,88,1.0,6-2,195.0,SG,Seton Hall,Jr.,2020,Myles Powell
+88,89,1.0,6-2,185.0,PG/SG,Texas Tech,So.,2020,Davide Moretti
+89,90,1.0,6-7,200.0,SF,Cal St. Northridge,So.,2020,Lamine Diane
+90,91,1.0,6-10,230.0,PF,Kentucky,So.,2020,Montgomery Montgomery
+91,92,1.0,6-10,255.0,C,Ohio St.,Jr.,2020,Kaleb Wesson
+92,93,1.0,6-7,235.0,SF,Oklahoma,Sr.,2020,Kristian Doolittle
+93,94,1.0,6-1,175.0,PG,St. Mary's,Jr.,2020,Jordan Ford
+94,95,1.0,6-9,245.0,PF/C,Baylor,Sr.,2020,Freddie Gillespie
+95,96,1.0,6-5,205.0,SG,Utah State,Sr.,2020,Sam Merrill
+96,97,1.0,6-6,190.0,SG,New Mexico St.,Sr.,2020,Trevelin Queen
+97,98,1.0,6-9,235.0,C,William & Mary,Sr.,2020,Nathan Knight
+98,99,1.0,6-6,225.0,SF/PF,Vermont,Sr.,2020,Anthony Lamb
+99,100,1.0,6-6,210.0,SG/SF,Providence,Sr.,2020,Alpha Diallo
+0,1,1.0,6-8,220.0,PG/SG,Oklahoma State,Fr.,2021,Cade Cunningham
+1,2,1.0,7-0,215.0,PF/C,USC,Fr.,2021,Evan Mobley
+2,3,1.0,6-4,205.0,PG,Gonzaga,Fr.,2021,Jalen Suggs
+3,4,1.0,6-5,180.0,SG,G-League,Fr.,2021,Jalen Green
+4,5,1.0,6-8,225.0,SF/PF,Florida St.,Fr.,2021,Scottie Barnes
+5,6,1.0,6-7,220.0,SF/PF,G-League,Fr.,2021,Jonathan Kuminga
+6,7,1.0,6-5,190.0,SG,UConn,So.,2021,James Bouknight
+7,8,1.0,6-6,210.0,SG,Arkansas,Fr.,2021,Moses Moody
+8,9,1.0,6-8,205.0,PG,Adelaide 36ers,2002,2021,Josh Giddey
+9,10,1.0,6-9,190.0,SG/SF,Stanford,Fr.,2021,Ziaire Williams
+10,11,1.0,6-11,220.0,C,Texas,So.,2021,Kai Jones
+11,12,1.0,6-10,220.0,SF/PF,Michigan,So.,2021,Franz Wagner
+12,13,1.0,6-1,200.0,PG,Baylor,Jr.,2021,Davion Mitchell
+13,14,1.0,6-7,225.0,SG/SF,Gonzaga,Sr.,2021,Corey Kispert
+14,15,1.0,6-9,205.0,SF/PF,Virginia,Jr.,2021,Trey Murphy
+15,16,1.0,6-5,185.0,SG/SF,Tennessee,Fr.,2021,Keon Johnson
+16,17,1.0,6-9,210.0,SF/PF,Duke,Fr.,2021,Jalen Johnson
+17,18,1.0,6-9,240.0,PF/C,Besiktas,2002,2021,Alperen Sengun
+18,19,1.0,6-5,190.0,SG,Alabama,Fr.,2021,Joshua Primo
+19,20,1.0,6-2,195.0,PG,West Virginia,So.,2021,Miles Bride
+20,21,1.0,6-3,170.0,PG/SG,VCU,So.,2021,Nah Hyland
+21,22,1.0,6-6,190.0,SG,Oregon,Sr.,2021,Chris Duarte
+22,23,1.0,6-3,200.0,SG,LSU,Fr.,2021,Cameron Thomas
+23,24,1.0,6-5,195.0,PG/SG,Illinois,Jr.,2021,Ayo Dosunmu
+24,25,1.0,6-3,195.0,PG/SG,Baylor,Jr.,2021,Jared Butler
+25,26,1.0,6-8,230.0,PF/C,Real Madrid,2002,2021,Usman Garuba
+26,27,8.0,6-7,185.0,SG,Kentucky,Fr.,2021,Boston Boston
+27,28,1.0,6-10,220.0,PF/C,G-League,Fr.,2021,Isaiah Todd
+28,29,3.0,6-4,200.0,SG,Tennessee,Fr.,2021,Jaden Springer
+29,30,1.0,6-5,180.0,PG/SG,Gonzaga,Jr.,2021,Joel Ayayi
+30,31,-1.0,6-10,230.0,PF/C,Western Kentucky,Jr.,2021,Charles Bassey
+31,32,4.0,6-4,215.0,SG,Arizona St.,Fr.,2021,Josh Christopher
+32,33,-5.0,6-4,180.0,PG,Florida,So.,2021,Tre Mann
+33,34,-1.0,6-10,205.0,PF/C,Kentucky,Fr.,2021,Isaiah Jackson
+34,35,-1.0,6-1,180.0,PG,Auburn,Fr.,2021,Sharife Cooper
+35,36,1.0,6-4,180.0,PG,Ohio,Jr.,2021,Jason Preston
+36,37,1.0,6-5,210.0,SG,Houston,Jr.,2021,Quentin Grimes
+37,38,1.0,6-8,205.0,SF/PF,Texas,Fr.,2021,Greg Brown
+38,39,1.0,6-10,205.0,PF/C,Auburn,Fr.,2021,Thor Thor
+39,40,1.0,6-6,190.0,SG,Maryland,Jr.,2021,Aaron Wiggins
+40,41,1.0,6-7,205.0,SG/SF,Alabama,Sr.,2021,Herbert Jones
+41,42,1.0,6-6,215.0,PG/SG,CFBB,2002,2021,Juhann Begarin
+42,43,1.0,6-9,225.0,PF/C,Georgia Tech,Sr.,2021,Moses Wright
+43,44,1.0,6-9,240.0,PF,Villanova,So.,2021,Jeremiah Earl
+44,45,1.0,6-10,250.0,PF/C,Texas,Sr.,2021,Jericho Sims
+45,46,1.0,7-0,250.0,C,Utah State,Jr.,2021,Neemias Queta
+46,47,1.0,6-11,235.0,C,Mega Soccerbet,2000,2021,Filip Petrusev
+47,48,1.0,6-7,205.0,SG/SF,Iowa,Jr.,2021,Joe Wieskamp
+48,49,1.0,6-7,230.0,SF/PF,Michigan,Sr.,2021,Isaiah Livers
+49,50,1.0,6-4,190.0,PG,Zalgiris,2000,2021,Rokas Jokubaitis
+50,51,1.0,6-5,205.0,PG/SG,Providence,Jr.,2021,David Duke
+51,52,1.0,6-4,225.0,PG,G-League,Fr.,2021,Daishen Nix
+52,53,1.0,6-10,265.0,PF/C,North Carolina,Fr.,2021,Day Sharpe
+53,54,1.0,6-6,210.0,SG/SF,Michigan St.,Jr.,2021,Aaron Henry
+54,55,1.0,6-11,240.0,PF,Shawnee State,Sr.,2021,Onu Onu
+55,56,1.0,6-9,215.0,SF/PF,UCLA,Sr.,2021,Chris Smith
+56,57,1.0,6-8,270.0,PF/C,Florida St.,Jr.,2021,Raiquan Gray
+57,58,5.0,6-7,205.0,SF,Pittsburgh,So.,2021,Justin Champagnie
+58,59,1.0,6-9,190.0,SF/PF,Antwerp,2000,2021,Vrenz Bleijenbergh
+59,60,1.0,6-4,205.0,PG,Louisville,So.,2021,David Johnson
+60,61,1.0,6-8,205.0,PF,Pepperdine,Jr.,2021,Kessler Edwards
+61,62,2.0,6-3,210.0,PG/SG,Ohio St.,Jr.,2021,Duane Washington
+62,63,2.0,6-6,185.0,SG,Alabama,Sr.,2021,John Petty
+63,64,2.0,6-2,180.0,PG/SG,Texas Tech,Jr.,2021,Mac Clung
+64,65,2.0,6-5,195.0,PG/SG,TCU,Jr.,2021,Nembhard Nembhard
+65,66,2.0,6-8,215.0,SF,Virginia,Sr.,2021,Sam Hauser
+66,67,2.0,6-6,205.0,SG,Stanford,Jr.,2021,Bryce Wills
+67,68,2.0,6-6,190.0,PG/SG,Kansas,Sr.,2021,Marcus Garrett
+68,69,2.0,6-2,180.0,PG/SG,Creighton,Jr.,2021,Marcus Zegarowski
+69,70,2.0,6-2,160.0,PG,Duke,Fr.,2021,Steward Steward
+70,71,2.0,6-9,190.0,SG/SF,Boise State,Sr.,2021,Derrick Alston
+71,72,2.0,6-10,240.0,PF,Seton Hall,Sr.,2021,Sandro Mamukelashvili
+72,73,2.0,6-11,245.0,C,Iowa,Sr.,2021,Luka Garza
+73,74,2.0,6-0,190.0,PG,Colorado,Sr.,2021,Mc Wright
+74,75,2.0,6-1,175.0,PG,Louisville,Sr.,2021,Carlik Jones
+75,76,2.0,6-9,235.0,PF,Clemson,Sr.,2021,Aamir Simms
+76,77,2.0,6-6,195.0,PG/SG,Oklahoma,Sr.,2021,Austin Reaves
+77,78,2.0,6-5,190.0,SG/SF,Florida,So.,2021,Scottie Lewis
+78,79,2.0,6-7,205.0,PF/C,Tennessee,Sr.,2021,Yves Pons
+79,80,2.0,6-9,235.0,SF/PF,LSU,So.,2021,Trendon Watford
+80,81,2.0,7-0,235.0,C,Kentucky,Sr.,2021,Olivier Sarr
+81,82,2.0,6-3,190.0,SG,Baylor,Sr.,2021,Ma Teague
+82,83,2.0,6-10,230.0,SF/PF,Duke,So.,2021,Matthew Hurt
+83,84,2.0,7-1,250.0,C,Florida St.,So.,2021,Balsa Koprivica
+84,85,2.0,6-5,185.0,PG,Houston,Sr.,2021,De Jarreau
+85,86,2.0,6-4,185.0,SG,UC Santa Barbara,Sr.,2021,Ja Laughlin
+86,87,2.0,6-10,255.0,C,West Virginia,Jr.,2021,Derek Culver
+87,88,2.0,6-9,195.0,PG/SG,Nebraska,So.,2021,Dalano Banton
+88,89,2.0,6-8,195.0,SF,SMU,Jr.,2021,Feron Hunt
+89,90,2.0,6-0,175.0,PG,Georgia Tech,Sr.,2021,Jose Alvarado
+90,91,2.0,6-5,215.0,SG,Florida St.,Sr.,2021,Walker Walker
+91,92,2.0,6-6,215.0,SG/SF,Michigan,Sr.,2021,Chaundee Brown
+92,93,2.0,6-9,205.0,SF,Georgetown,Sr.,2021,Jamorko Pickett
+93,94,2.0,6-5,195.0,SG,Oregon St.,Sr.,2021,Ethan Thompson
+94,95,2.0,6-7,215.0,SF,DePaul,So.,2021,Romeo Weems
+95,96,2.0,6-10,225.0,PF,Stanford,Sr.,2021,Oscarda Oscarda
+96,97,2.0,6-4,190.0,PG/SG,LSU,Jr.,2021,Javonte Smart
+97,98,2.0,6-2,200.0,PG,Marquette,So.,2021,Carton Carton
+98,99,2.0,6-5,220.0,SG/SF,Creighton,Sr.,2021,Denzel Mahoney
+99,100,2.0,6-9,190.0,PF,Oostende,2001,2021,Amar Sylla
+0,1,1.0,6-10,220.0,PF,Auburn,Fr.,2022,Jabari Smith
+1,2,1.0,6-4,195.0,PG/SG,Purdue,So.,2022,Jaden Ivey
+2,3,1.0,6-10,250.0,PF/C,Duke,Fr.,2022,Paolo Banchero
+3,4,1.0,7-0,195.0,PF/C,Gonzaga,Fr.,2022,Chet Holmgren
+4,5,1.0,6-6,205.0,SG/SF,Arizona,So.,2022,Bennedict Mathurin
+5,6,1.0,6-8,225.0,SF/PF,Iowa,So.,2022,Keegan Murray
+6,7,1.0,6-6,220.0,SF,Duke,Fr.,2022,Griffin Griffin
+7,8,1.0,6-5,195.0,SG,Wisconsin,So.,2022,Johnny Davis
+8,9,1.0,6-5,195.0,SG/SF,Ohio St.,Fr.,2022,Malaki Branham
+9,10,1.0,6-5,200.0,SG,Kentucky,Fr.,2022,Shaedon Sharpe
+10,11,1.0,6-7,195.0,SG/SF,Centre of Excellence,2003,2022,Dyson Daniels
+11,12,1.0,6-9,230.0,PF,Baylor,Fr.,2022,Jeremy Sochan
+12,13,1.0,7-1,240.0,C,Duke,So.,2022,Mark Williams
+13,14,1.0,6-9,185.0,SG/SF,CFBB,2003,2022,Ousmane Dieng
+14,15,1.0,6-5,190.0,SG,Michigan St.,Fr.,2022,Max Christie
+15,16,1.0,6-11,250.0,PF/C,Memphis,Fr.,2022,Jalen Duren
+16,17,1.0,6-6,215.0,SG,Kansas,Sr.,2022,Ochai Agbaji
+17,18,1.0,6-4,185.0,PG/SG,Notre Dame,Fr.,2022,Blake Wesley
+18,19,1.0,6-8,215.0,SF/PF,LSU,So.,2022,Tari Eason
+19,20,1.0,6-5,215.0,SG/SF,Duke,Jr.,2022,Wendell Moore
+20,21,1.0,6-6,210.0,SG/SF,Santa Clara,Jr.,2022,Jalen Williams
+21,22,1.0,6-3,195.0,PG,Kentucky,Fr.,2022,Ty Washington
+22,23,1.0,6-11,225.0,SF/PF,KK Mega Bemax,2003,2022,Nikola Jovic
+23,24,1.0,6-4,200.0,SG,G-League,Fr.,2022,Jaden Hardy
+24,25,1.0,6-1,170.0,PG,Tennessee,Fr.,2022,Kennedy Chandler
+25,26,1.0,6-10,235.0,PF/C,Arkansas,So.,2022,Jaylin Williams
+26,27,1.0,7-1,255.0,C,Auburn,So.,2022,Walker Kessler
+27,28,1.0,7-1,175.0,PF/C,Florida St.,Fr.,2022,John Butler
+28,29,1.0,6-11,230.0,C,Paris,2001,2022,Ismael Kamagate
+29,30,1.0,6-7,210.0,SG,Kansas,Jr.,2022,Christian Braun
+30,31,1.0,6-7,195.0,PG/SG,Arizona,So.,2022,Dalen Terry
+31,32,1.0,6-7,245.0,PF,Ohio St.,Jr.,2022,Liddell Liddell
+32,33,1.0,6-6,195.0,SG/SF,G-League,So.,2022,Mar Beauchamp
+33,34,1.0,6-4,195.0,PG,Gonzaga,Sr.,2022,Andrew Nembhard
+34,35,1.0,6-5,240.0,SF,Rutgers,Sr.,2022,Ron Harper
+35,36,1.0,6-3,180.0,PG/SG,Toledo,So.,2022,Ryan Rollins
+36,37,1.0,6-6,180.0,SG,Nebraska,Fr.,2022,Bryce Gowens
+37,38,1.0,6-8,205.0,SG/SF,Michigan,Fr.,2022,Caleb Houstan
+38,39,1.0,7-0,220.0,C,Arizona,Jr.,2022,Christian Koloko
+39,40,1.0,6-7,235.0,PF/C,Marquette,Fr.,2022,Justin Lewis
+40,41,1.0,6-10,220.0,SF/PF,Wisconsin–Milwaukee,Fr.,2022,Patrick Baldwin
+41,42,1.0,6-8,225.0,SF/PF,Wake Forest,Jr.,2022,Jake Ravia
+42,43,1.0,6-1,170.0,PG,San Francisco,Sr.,2022,Jamaree Bouyea
+43,44,1.0,6-8,205.0,SG/SF,UCLA,Fr.,2022,Peyton Watson
+44,45,1.0,6-7,200.0,SF/PF,Baylor,Fr.,2022,Kendall Brown
+45,46,1.0,6-2,170.0,PG/SG,Gran Canaria,2003,2022,Jean Montero
+46,47,1.0,6-4,225.0,PG/SG,Duke,Fr.,2022,Trevor Keels
+47,48,1.0,6-8,205.0,SF/PF,Memphis,Fr.,2022,Josh Minott
+48,49,1.0,6-3,185.0,PG,Mississippi St.,Jr.,2022,Iverson Molinar
+49,50,1.0,6-2,190.0,PG/SG,Alabama,Fr.,2022,Davison Davison
+50,51,1.0,6-5,210.0,SG/SF,Memphis,Jr.,2022,Lester Quinones
+51,52,1.0,6-8,215.0,SF/PF,Colorado,So.,2022,Jabari Walker
+52,53,1.0,6-9,235.0,PF,G-League,Fr.,2022,Michael Foster
+53,54,1.0,6-7,215.0,PG/SG,St. Joseph's,So.,2022,Jordan Hall
+54,55,1.0,6-7,195.0,SG,Pallacanestro Cantù,2002,2022,Gabriele Procida
+55,56,1.0,6-10,220.0,PF/C,0,2004,2022,Dominick Barlow
+56,57,1.0,6-9,235.0,PF/C,Texas Tech,Sr.,2022,Bryson Williams
+57,58,1.0,6-6,190.0,SG,UNLV,Jr.,2022,Donovan Williams
+58,59,1.0,6-7,210.0,SF,St. Johns,Jr.,2022,Julian Champagnie
+59,60,1.0,6-11,245.0,C,Fresno St.,Jr.,2022,Orlando Robinson
+60,61,1.0,6-5,210.0,SG,Wake Forest,Sr.,2022,Alondes Williams
+61,62,1.0,6-1,180.0,PG/SG,Vanderbilt,Jr.,2022,Scotty Pippen
+62,63,1.0,6-6,200.0,SG/SF,Seton Hall,Sr.,2022,Jared Rhoden
+63,64,1.0,6-5,215.0,SG/SF,Georgetown,Fr.,2022,Aminu Mohammed
+64,65,1.0,6-6,260.0,SF/PF,Colorado St.,Jr.,2022,David Roddy
+65,66,1.0,6-6,180.0,SG/SF,NC State,So.,2022,Dereon Seabron
+66,67,1.0,6-6,210.0,SG/SF,UCLA,Jr.,2022,Johnny Juzang
+67,68,1.0,6-10,215.0,PF/C,Michigan,Fr.,2022,Moussa Diabate
+68,69,1.0,6-7,280.0,PF,Louisiana Tech,So.,2022,Kenneth Lofton
+69,70,1.0,6-6,180.0,PG/SG,New Zealand Breakers,2001,2022,Hugo Besson
+70,71,1.0,6-8,265.0,PF/C,Purdue,Sr.,2022,Trevion Williams
+71,72,1.0,6-11,230.0,C,Gran Canaria,2002,2022,Khalifa Diop
+72,73,1.0,6-5,195.0,PG,Cremona,2003,2022,Matteo Spagnolo
+73,74,1.0,6-9,240.0,PF/C,OKK Beograd,2001,2022,Karlo Matkovic
+74,75,1.0,6-9,210.0,SF,Cholet,2000,2022,Yoan Makoundou
+75,76,1.0,7-1,240.0,C,Barcelona,2002,2022,Ibou Dianko
+76,77,1.0,6-5,175.0,SF,Murray St.,Jr.,2022,Tevin Brown
+77,78,1.0,6-4,195.0,PG/SG,Iowa St.,Sr.,2022,Izaiah Brockington
+78,79,1.0,6-2,190.0,PG,BYU,Sr.,2022,Alex Barcello
+79,80,1.0,6-5,165.0,SG,Alabama,Sr.,2022,Keon Ellis
+80,81,1.0,6-11,200.0,C,"Unicaja, Malaga",2003,2022,Yannick Nzosa
+81,82,1.0,6-6,205.0,PG/SG,Kentucky,Sr.,2022,Kellan Grady
+82,83,1.0,6-2,180.0,PG,Arkansas,Sr.,2022,Notae Notae
+83,84,1.0,6-6,185.0,PG,Fuenlabrada,2001,2022,Ziga Samar
+84,85,1.0,6-9,220.0,PF/C,North Carolina,Sr.,2022,Brady Manek
+85,86,1.0,6-9,230.0,SF/PF,Virginia Tech,Sr.,2022,Keve Aluma
+86,87,1.0,6-8,205.0,SF,Michigan St.,Sr.,2022,Gabe Brown
+87,88,1.0,7-0,295.0,C,Illinois,Jr.,2022,Kofi Cockburn
+88,89,1.0,6-4,170.0,PG/SG,Texas A&M,Sr.,2022,Quenton Jackson
+89,90,1.0,6-9,235.0,PF,UC Santa Barbara,Sr.,2022,Amadou Sow
+90,91,1.0,6-5,180.0,PG/SG,Georgia Tech,Sr.,2022,Michael Devoe
+91,92,1.0,6-6,200.0,SG/SF,Minas,2002,2022,Gui Santos
+92,93,1.0,6-8,200.0,SG/SF,Perth,2001,2022,Luke Travers
+93,94,1.0,6-7,220.0,SF,Villanova,Sr.,2022,Jermaine Samuels
+94,95,1.0,6-7,215.0,SG/SF,UConn,Sr.,2022,Tyrese Martin
+95,96,1.0,6-3,195.0,PG,Villanova,Sr.,2022,Collin Gillespie
+96,97,1.0,6-5,205.0,SG/SF,Buffalo,Sr.,2022,Jee Williams
+97,98,1.0,6-6,200.0,SG,Syracuse,Sr.,2022,Buddy Boeheim
+98,99,1.0,7-2,230.0,C,Adelaide 36ers,2002,2022,Kai Sotto
+99,100,1.0,6-5,190.0,SG,Marshall,Sr.,2022,Taevion Kinsey
+0,1,1.0,7-2,210.0,C,Metropolitans 92,2004,2023,Victor Wembanyama
+1,2,1.0,6-9,200.0,SF,Alabama,Fr.,2023,Brandon Miller
+2,3,1.0,6-2,195.0,PG,G-League,Fr.,2023,Scoot Henderson
+3,4,1.0,6-9,215.0,PF/C,Central Florida,Fr.,2023,Taylor Hendricks
+4,5,2.0,6-7,200.0,PG/SG,Arkansas,Fr.,2023,Anthony Black
+5,6,2.0,6-7,200.0,SG,Overtime Elite,Fr.,2023,Amen Thompson
+6,7,5.0,6-7,205.0,SG,Overtime Elite,Fr.,2023,Ausar Thompson
+7,8,1.0,6-8,205.0,SG,Kansas,Fr.,2023,Gradey Dick
+8,9,1.0,6-6,185.0,SG/SF,Centre Federal Du Basket-Ball,2004,2023,Rayan Rupert
+9,10,1.0,6-7,230.0,SF,Villanova,Fr.,2023,Cam Whitmore
+10,11,2.0,6-9,210.0,PF,South Carolina,Fr.,2023,Jackson Jackson
+11,12,-6.0,6-5,185.0,PG/SG,Arkansas,Fr.,2023,Nick Smith
+12,13,1.0,6-7,195.0,SG/SF,Pepperdine,So.,2023,Maxwell Lewis
+13,14,6.0,6-4,195.0,PG/SG,Kentucky,Fr.,2023,Cason Wallace
+14,15,1.0,6-4,185.0,SG,Baylor,Fr.,2023,Keyonte George
+15,16,-1.0,6-8,235.0,SF/PF,Houston,Fr.,2023,Jarace Walker
+16,17,1.0,6-6,215.0,PG,Indiana,Fr.,2023,Jalen Schifino
+17,18,1.0,6-8,220.0,SF/PF,Iowa,Jr.,2023,Kris Murray
+18,19,-2.0,6-5,195.0,SG,Michigan,So.,2023,Kobe Bufkin
+19,20,1.0,6-10,210.0,SF,G-League,Fr.,2023,Leonard Miller
+20,21,5.0,6-9,245.0,PF,Indiana,Sr.,2023,Trayce Davis
+21,22,9.0,6-5,190.0,SG,UConn,So.,2023,Jordan Hawkins
+22,23,7.0,6-4,185.0,SG,Creighton,So.,2023,Trey Alexander
+23,24,-2.0,6-8,215.0,SG,Michigan,Fr.,2023,Jett Howard
+24,25,,6-7,225.0,SF/PF,Kansas,Jr.,2023,Jalen Wilson
+25,26,2.0,6-7,205.0,SF,Gonzaga,Jr.,2023,Julian Strawther
+26,27,14.0,6-6,210.0,SG/SF,UConn,Jr.,2023,Andre Jackson
+27,28,-5.0,6-4,165.0,PG/SG,NC State,So.,2023,Terquavion Smith
+28,29,5.0,6-7,220.0,SF,Duke,Fr.,2023,Dariq Whitehead
+29,30,3.0,6-6,,SG/SF,Boulogne-Levallois Metropolitans,2004,2023,Bilal Coulibaly
+30,31,5.0,7-0,230.0,PF,Duke,Fr.,2023,Kyle Filipowski
+31,32,3.0,6-8,200.0,SG,Saski Baskonia,2004,2023,Sidy Cissoko
+32,33,-6.0,6-5,175.0,PG,Duke,Fr.,2023,Tyrese Proctor
+33,34,3.0,6-6,235.0,SF/PF,Ohio St.,Fr.,2023,Brice Sensabaugh
+34,35,-3.0,6-6,230.0,SG/SF,Kansas State,Sr.,2023,Keyontae Johnson
+35,36,2.0,6-5,205.0,SG,Santa Clara,So.,2023,Brandin Podziemski
+36,37,7.0,7-1,230.0,C,Duke,Fr.,2023,Dereck Lively
+37,38,-14.0,6-5,205.0,SG,Florida,Fr.,2023,Riley Kugel
+38,39,1.0,6-5,185.0,PG/SG,UCLA,Fr.,2023,Amari Bailey
+39,40,-1.0,6-7,225.0,SF,UCLA,Sr.,2023,Jaime Jaquez
+40,41,-12.0,6-10,210.0,PF,Alabama,Fr.,2023,Noah Clowney
+41,42,,6-4,185.0,PG/SG,Miami,Sr.,2023,Isaiah Wong
+42,43,,7-0,210.0,C,Indiana,Fr.,2023,Kel Ware
+43,44,58.0,6-7,195.0,SG,Miami,Sr.,2023,Jordan Miller
+44,45,,6-2,195.0,PG/SG,Houston,Sr.,2023,Marcus Sasser
+45,46,,6-6,205.0,SG,Arkansas,Jr.,2023,Ricky Council
+46,47,,6-3,185.0,SG,Baylor,Sr.,2023,Adam Flagler
+47,48,20.0,6-8,220.0,SF,Princeton,Sr.,2023,Tosan Evbuomwan
+48,49,,6-9,210.0,SF/PF,Tofas Bursa,2004,2023,Berke Buyuktuncel
+49,50,1.0,6-9,230.0,PF/C,Gonzaga,Sr.,2023,Drew Timme
+50,51,10.0,6-9,245.0,PF/C,UConn,Jr.,2023,Adama Sanogo
+51,52,2.0,7-4,290.0,C,Purdue,Jr.,2023,Zach Edey
+52,53,2.0,6-10,225.0,PF,Illinois,Jr.,2023,Coleman Hawkins
+53,54,2.0,6-6,205.0,SG,Xavier,Jr.,2023,Colby Jones
+54,55,3.0,6-10,225.0,SF/PF,Wake Forest,Fr.,2023,Bobi Klintman
+55,56,46.0,7-2,265.0,C,UConn,Fr.,2023,Donovan Clingan
+56,57,18.0,6-7,200.0,SG,Creighton,Sr.,2023,Baylor Scheierman
+57,58,1.0,6-2,200.0,PG,Oklahoma,Sr.,2023,Grant Sherfield
+58,59,43.0,6-4,210.0,SG,Penn State,Sr.,2023,Jalen Pickett
+59,60,-10.0,6-11,260.0,C,UCLA,Fr.,2023,Adem Bona
+60,61,-1.0,6-8,220.0,SF/PF,Duke,Fr.,2023,Mark Mitchell
+61,62,,6-8,215.0,SG,0,2004,2023,Nikola Djurisic
+62,63,-10.0,6-6,190.0,SF,NBA Academy Africa,2004,2023,Thierry Darlan
+63,64,9.0,6-8,205.0,SF,Texas,Fr.,2023,Dillon Mitchell
+64,65,-2.0,6-10,200.0,C,FC Barcelona,2004,2023,James Nnaji
+65,66,16.0,6-8,225.0,SF/PF,Gonzaga,Sr.,2023,Anton Watson
+66,67,35.0,6-9,230.0,PF,Maryland,So.,2023,Julian Reese
+67,68,34.0,7-1,255.0,C,Creighton,Jr.,2023,Ryan Kalkbrenner
+68,69,-17.0,6-11,245.0,PF,Arizona,Jr.,2023,Azuolas Tubelis
+69,70,-4.0,6-6,185.0,SG,Mega Soccerbet,2001,2023,Malcolm Cazalon
+70,71,-23.0,6-1,190.0,PG,Baylor,Jr.,2023,Cryer Cryer
+71,72,-8.0,6-11,210.0,PF/C,Washington State,So.,2023,Mouhamed Gueye
+72,73,-4.0,6-10,190.0,SG,Eastern Michigan,So.,2023,Emoni Bates
+73,74,-4.0,6-3,190.0,PG/SG,St. Mary's,Fr.,2023,Aidan Mahaney
+74,75,-18.0,6-6,215.0,SG,Illinois,Sr.,2023,Terrence Shannon
+75,76,-4.0,6-11,245.0,PF,Mississippi St.,Sr.,2023,Tolu Smith
+76,77,-12.0,6-7,220.0,SF/PF,Creighton,So.,2023,Arthur Kaluma
+77,78,-4.0,6-9,260.0,PF/C,Kentucky,Sr.,2023,Oscar Tshiebwe
+78,79,-12.0,6-6,220.0,SG/SF,Penn State,Sr.,2023,Seth Lundy
+79,80,-3.0,6-7,210.0,SF,Washington,Sr.,2023,Keion Brooks
+80,81,-3.0,6-2,165.0,PG,UAB,So.,2023,Eric Gaines
+81,82,-3.0,6-8,195.0,SG/SF,AEK BC,2001,2023,Nikos Rogkavopoulos
+82,83,-3.0,6-10,230.0,PF,Dayton,So.,2023,Da Holmes
+83,84,-3.0,6-5,195.0,SG,G-League Ignite,2002,2023,Mojave King
+84,85,-14.0,6-3,180.0,PG,Virginia,Jr.,2023,Reece Beekman
+85,86,-3.0,6-3,180.0,PG,Real Madrid,2004,2023,Juan Nunez
+86,87,8.0,6-1,175.0,PG,Alabama,Sr.,2023,Jahvon Quinerly
+87,88,-4.0,6-7,205.0,SF,Arkansas,Fr.,2023,Jordan Walsh
+88,89,-4.0,6-7,230.0,SF,Stanford,So.,2023,Harrison Ingram
+89,90,-4.0,6-9,210.0,PF/C,Dragons Rhoendorf,2004,2023,Ousmane Ndiaye
+90,91,-4.0,6-8,200.0,SF,Tennessee,Fr.,2023,Julian Phillips
+91,92,9.0,6-5,210.0,SG,UCLA,Jr.,2023,Jaylen Clark
+92,93,-4.0,6-5,225.0,SG,Georgetown,So.,2023,Brandon Murray
+93,94,-18.0,6-7,225.0,SF,Baylor,Jr.,2023,Jalen Bridges
+94,95,-5.0,6-5,200.0,SG,Miami,So.,2023,Wooga Poplar
+95,96,-5.0,6-8,200.0,PF,Kedainiai Nevezis,2004,2023,Paulius Murauskas
+96,97,-5.0,6-5,205.0,SG,Kentucky,Sr.,2023,Antonio Reeves
+97,98,-4.0,6-0,175.0,PG,Texas,So.,2023,Tyrese Hunter
+98,99,-1.0,6-9,205.0,SF,North Carolina,Sr.,2023,Leaky Black
+99,100,-3.0,5-8,160.0,PG,Kansas State,Sr.,2023,Markquis Nowell
